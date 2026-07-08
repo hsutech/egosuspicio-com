@@ -1,6 +1,8 @@
-# egosuspicio.com
+# egosuspicio-com
 
-Static site for egosuspicio.com.
+Eleventy / 11ty source site.
 
-Source factory repository: git@github.com:erikhsu70/pbns.git
-Cloudflare Pages project: egosuspicio-com
+- Source: `src/`
+- Build command: `npm run build`
+- Output: `dist/`
+- Cloudflare Pages project: `egosuspicio-com`
