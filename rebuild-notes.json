@@ -1,0 +1,28 @@
+{
+  "domain": "egosuspicio.com",
+  "source": "Rebuild based on authorized Archive.org structure and local snapshots; original copy rewritten and expanded.",
+  "archiveSource": "https://web.archive.org/web/20250305123857/http://www.egosuspicio.com/",
+  "pages": [
+    "/",
+    "/shop/",
+    "/quienes-somos/",
+    "/contacto/",
+    "/categoria/conjuntos/",
+    "/categoria/vestidos-cortos/",
+    "/categoria/deportivo/",
+    "/categoria/camisetas/",
+    "/categoria/faldas/",
+    "/categoria/complementos/",
+    "/blog/",
+    "/blog/como-crear-un-armario-con-estilo-propio/",
+    "/blog/moda-femenina-en-fuerteventura/",
+    "/blog/guia-para-elegir-un-look-de-tienda/",
+    "/aviso-legal/",
+    "/politica-de-privacidad/",
+    "/politica-de-cookies/",
+    "/condiciones-de-compra/",
+    "/declaracion-de-accesibilidad/",
+    "/mapa-del-sitio/",
+    "/cart/"
+  ]
+}
