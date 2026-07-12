@@ -1,5 +1,5 @@
-/politica-de-privacidad/ /politica-de-privacidad/ 200
-/contact/ /contacto/ 301
-/about/ /quienes-somos/ 301
-/product-category/uncategorized/ /shop/ 301
-/my-account/ /contacto/ 301
+/coleccion/ /shop/ 301
+/tienda/ /shop/ 301
+/quienes-somos/index.html /quienes-somos/ 301
+/contacto/index.html /contacto/ 301
+/* /404.html 404
