@@ -1,0 +1,64 @@
+{
+  "domain": "egosuspicio.com",
+  "lastUpdated": "2026-07-15",
+  "articles": [
+    {
+      "keyword": "mejores boutiques en Fuerteventura",
+      "priority": "Alta",
+      "slug": "mejores-boutiques-en-fuerteventura",
+      "title": "Mejores boutiques en Fuerteventura: 7 opciones para comprar moda con criterio",
+      "url": "https://egosuspicio.com/blog/mejores-boutiques-en-fuerteventura/",
+      "language": "es",
+      "market": "Google ES / Fuerteventura",
+      "status": "ready_to_push",
+      "publicationDate": null,
+      "serpResearch": {
+        "date": "2026-07-15",
+        "queries": [
+          "mejores boutiques en Fuerteventura moda mujer",
+          "Fuerteventura tiendas de ropa mujer boutique",
+          "mejores tiendas ropa Fuerteventura TripAdvisor compras",
+          "Centro Comercial Las Rotondas Fuerteventura tiendas"
+        ],
+        "observations": [
+          "La SERP util mezcla directorios de compras, centros comerciales, mercadillos y paginas informativas; no hay una guia editorial fuerte centrada solo en boutiques de moda mujer.",
+          "Tripadvisor muestra la intencion agregada de compras en Fuerteventura con centros comerciales, mercadillos, tiendas especializadas y regalos, por lo que el articulo separa opciones por tipo de necesidad.",
+          "La cobertura competidora prioriza listados y resenas agregadas; el gap principal es explicar que comprar segun clima, viento, zona y categoria de prenda.",
+          "No se usaron ratings como afirmacion editorial propia ni se inventaron precios, resenas o experiencias personales."
+        ],
+        "sources": [
+          "https://www.tripadvisor.es/Attractions-g187467-Activities-c26-Fuerteventura_Canary_Islands.html",
+          "https://www.visitfuerteventura.com/en/",
+          "https://dle.rae.es/boutique",
+          "https://www.aemet.es/es/eltiempo/prediccion/municipios/puerto-del-rosario-id35017"
+        ]
+      },
+      "content": {
+        "format": "BOFU listicle/comparativa",
+        "targetWords": "1300-2400",
+        "internalLinks": [
+          "https://egosuspicio.com/shop/",
+          "https://egosuspicio.com/visitanos/",
+          "https://egosuspicio.com/categoria/vestidos-cortos/",
+          "https://egosuspicio.com/categoria/complementos/",
+          "https://egosuspicio.com/blog/moda-femenina-en-fuerteventura/"
+        ],
+        "externalLinks": [
+          "https://www.tripadvisor.es/Attractions-g187467-Activities-c26-Fuerteventura_Canary_Islands.html",
+          "https://www.visitfuerteventura.com/en/",
+          "https://dle.rae.es/boutique",
+          "https://www.aemet.es/es/eltiempo/prediccion/municipios/puerto-del-rosario-id35017"
+        ],
+        "featuredImage": "/assets/blog-boutiques-fuerteventura.jpg",
+        "featuredImageAlt": "Perchero de boutique con ropa ligera y complementos junto a una puerta con luz de Fuerteventura",
+        "youtubeEmbed": null
+      },
+      "qa": {
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "localVerification": "passed",
+        "liveVerification": "pending"
+      }
+    }
+  ]
+}
