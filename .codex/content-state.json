@@ -10,8 +10,9 @@
       "url": "https://egosuspicio.com/blog/mejores-boutiques-en-fuerteventura/",
       "language": "es",
       "market": "Google ES / Fuerteventura",
-      "status": "ready_to_push",
-      "publicationDate": null,
+      "status": "published",
+      "publicationDate": "2026-07-15",
+      "publishedCommit": "6ac7de7",
       "serpResearch": {
         "date": "2026-07-15",
         "queries": [
@@ -57,7 +58,18 @@
         "editorialSecondPass": "passed",
         "build": "passed",
         "localVerification": "passed",
-        "liveVerification": "pending"
+        "liveVerification": "passed",
+        "verifiedAt": "2026-07-15T06:02:00Z",
+        "verifiedChecks": [
+          "HTTP 200 on final article URL",
+          "Expected H1 present",
+          "Canonical matches final URL",
+          "Featured image returns image/jpeg and loads in browser",
+          "Article card present on /blog/",
+          "Article URL present in /sitemap.xml",
+          "Desktop render has no extra document width",
+          "Mobile render has no extra document width and table scrolls internally"
+        ]
       }
     }
   ]
