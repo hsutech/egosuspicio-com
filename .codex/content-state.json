@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-07-15",
+  "lastUpdated": "2026-07-19",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -70,6 +70,66 @@
           "Desktop render has no extra document width",
           "Mobile render has no extra document width and table scrolls internally"
         ]
+      }
+    },
+    {
+      "keyword": "mejores tiendas de ropa en Puerto del Rosario",
+      "priority": "Alta",
+      "slug": "mejores-tiendas-de-ropa-en-puerto-del-rosario",
+      "title": "Mejores tiendas de ropa en Puerto del Rosario: 10 opciones segun lo que necesitas",
+      "url": "https://egosuspicio.com/blog/mejores-tiendas-de-ropa-en-puerto-del-rosario/",
+      "language": "es",
+      "market": "Google ES / Fuerteventura",
+      "status": "prepared",
+      "publicationDate": "2026-07-19",
+      "serpResearch": {
+        "date": "2026-07-19",
+        "queries": [
+          "mejores tiendas de ropa en Puerto del Rosario Fuerteventura moda mujer",
+          "tiendas de ropa Puerto del Rosario Fuerteventura moda mujer",
+          "Centro Comercial Las Rotondas tiendas moda Puerto del Rosario",
+          "Puerto del Rosario comercio zona comercial abierta tiendas ropa"
+        ],
+        "observations": [
+          "La SERP actual mezcla pagina oficial de Las Rotondas, Discover Puerto del Rosario, directorio municipal de comercios, paginas de centros comerciales/directorios y alguna tienda concreta; no domina una guia editorial independiente para ropa de mujer en Puerto del Rosario.",
+          "La intencion es BOFU local: decidir donde comprar hoy o durante una estancia corta, comparando boutique local, centro comercial, comercio de proximidad, calzado, complementos y categorias concretas.",
+          "Las Rotondas aporta entidades y marcas de moda, moda intima, complementos y zapateria; se cita como opcion de concentracion, no como ranking de calidad.",
+          "Discover Puerto del Rosario y el directorio municipal Descubre Comercio refuerzan el enfoque de zona comercial abierta, comercio local y compras urbanas alrededor de Primero de Mayo.",
+          "El gap principal es una matriz de decision por necesidad, prenda, clima y tiempo disponible, evitando rankings basados en resenas, precios o experiencia personal no verificable."
+        ],
+        "sources": [
+          "https://lasrotondascentrocomercial.com/es/tienda/77",
+          "https://discoverpuerto.es/lugar/zona-comercial-abierta-calle-primero-de-mayo-y-sus-alrededores/",
+          "https://descubrecomercio.puertodelrosario.org/zona-publica/explorar-comercios",
+          "https://www.aemet.es/es/eltiempo/prediccion/municipios/puerto-del-rosario-id35017"
+        ]
+      },
+      "content": {
+        "format": "BOFU listicle/comparativa",
+        "targetWords": "1300-2400",
+        "internalLinks": [
+          "https://egosuspicio.com/shop/",
+          "https://egosuspicio.com/categoria/vestidos-cortos/",
+          "https://egosuspicio.com/categoria/conjuntos/",
+          "https://egosuspicio.com/categoria/complementos/",
+          "https://egosuspicio.com/blog/mejores-boutiques-en-fuerteventura/",
+          "https://egosuspicio.com/blog/moda-femenina-en-fuerteventura/"
+        ],
+        "externalLinks": [
+          "https://lasrotondascentrocomercial.com/es/tienda/77",
+          "https://discoverpuerto.es/lugar/zona-comercial-abierta-calle-primero-de-mayo-y-sus-alrededores/",
+          "https://descubrecomercio.puertodelrosario.org/zona-publica/explorar-comercios",
+          "https://www.aemet.es/es/eltiempo/prediccion/municipios/puerto-del-rosario-id35017"
+        ],
+        "featuredImage": "/assets/blog-tiendas-ropa-puerto-del-rosario.jpg",
+        "featuredImageAlt": "Perchero con vestidos ligeros y complementos en una tienda de ropa luminosa en Puerto del Rosario",
+        "youtubeEmbed": null
+      },
+      "qa": {
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "localVerification": "passed",
+        "liveVerification": "pending"
       }
     }
   ]
