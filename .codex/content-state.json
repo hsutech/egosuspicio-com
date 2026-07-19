@@ -80,8 +80,9 @@
       "url": "https://egosuspicio.com/blog/mejores-tiendas-de-ropa-en-puerto-del-rosario/",
       "language": "es",
       "market": "Google ES / Fuerteventura",
-      "status": "prepared",
+      "status": "published",
       "publicationDate": "2026-07-19",
+      "publishedCommit": "0057b4a",
       "serpResearch": {
         "date": "2026-07-19",
         "queries": [
@@ -129,7 +130,18 @@
         "editorialSecondPass": "passed",
         "build": "passed",
         "localVerification": "passed",
-        "liveVerification": "pending"
+        "liveVerification": "passed",
+        "verifiedAt": "2026-07-19T05:58:08Z",
+        "verifiedChecks": [
+          "HTTP 200 on final article URL",
+          "Expected H1 present",
+          "Canonical matches final URL",
+          "Featured image returns image/jpeg and loads in browser",
+          "Article card present on /blog/",
+          "Article URL present in /sitemap.xml",
+          "Desktop render has no extra document width",
+          "Mobile render has no extra document width and table scrolls internally"
+        ]
       }
     }
   ]
