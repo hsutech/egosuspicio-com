@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-07-19",
+  "lastUpdated": "2026-07-21",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -141,6 +141,89 @@
           "Article URL present in /sitemap.xml",
           "Desktop render has no extra document width",
           "Mobile render has no extra document width and table scrolls internally"
+        ]
+      }
+    },
+    {
+      "keyword": "mejores tiendas de moda mujer en Fuerteventura",
+      "priority": "Alta",
+      "slug": "mejores-tiendas-de-moda-mujer-en-fuerteventura",
+      "title": "Mejores tiendas de moda mujer en Fuerteventura: 9 opciones segun tu compra",
+      "url": "https://egosuspicio.com/blog/mejores-tiendas-de-moda-mujer-en-fuerteventura/",
+      "language": "es",
+      "market": "Google ES / Fuerteventura",
+      "status": "published",
+      "publicationDate": "2026-07-21",
+      "publishedCommit": "e0b7f23",
+      "serpResearch": {
+        "date": "2026-07-21",
+        "queries": [
+          "mejores tiendas de moda mujer en Fuerteventura",
+          "tiendas de moda mujer Fuerteventura boutique",
+          "ropa mujer Fuerteventura tiendas",
+          "Fuerteventura shopping moda mujer tiendas"
+        ],
+        "observations": [
+          "La SERP actual mezcla boutiques con paginas propias, directorios/fichas locales, centros comerciales, tiendas de moda vacacional, lenceria y paginas de boutiques de evento; la intencion es BOFU local y transaccional.",
+          "Los primeros resultados relevantes suelen ser paginas cortas o listados visuales con imagenes, escasa autoria editorial, sin tabla de contenidos y sin comparativa por necesidad, zona o tipo de prenda.",
+          "Para evitar canibalizacion, el articulo se diferencia de la guia de boutiques ampliando el foco a tiendas de moda mujer en sentido amplio, y de la guia de Puerto del Rosario cubriendo toda Fuerteventura.",
+          "El gap editorial principal es una matriz de decision por boutique, centro comercial, moda vacacional, evento, conjuntos, lenceria y complementos, conectada con clima y zonas de la isla.",
+          "No se usaron ratings, precios, opiniones ni experiencia personal como claims propios; el ranking se formula por utilidad de compra y fuentes verificables."
+        ],
+        "sources": [
+          "https://www.fuerteventura-shopping.com/",
+          "https://ccatlanticofuerteventura.com/tiendas/",
+          "https://www.paginasamarillas.es/a/ropa-de-mujer/las-palmas/fuerteventura/",
+          "https://salinamoda.com/",
+          "https://www.ninaboutiqueftv.es/",
+          "https://tiendamujeres.es/inicio",
+          "https://www.aemet.es/es/eltiempo/prediccion/municipios/puerto-del-rosario-id35017"
+        ]
+      },
+      "content": {
+        "format": "BOFU listicle/comparativa",
+        "targetWords": "1300-2400",
+        "actualWords": 1926,
+        "internalLinks": [
+          "https://egosuspicio.com/shop/",
+          "https://egosuspicio.com/visitanos/",
+          "https://egosuspicio.com/blog/mejores-boutiques-en-fuerteventura/",
+          "https://egosuspicio.com/blog/mejores-tiendas-de-ropa-en-puerto-del-rosario/",
+          "https://egosuspicio.com/categoria/vestidos-cortos/",
+          "https://egosuspicio.com/categoria/conjuntos/",
+          "https://egosuspicio.com/categoria/complementos/"
+        ],
+        "externalLinks": [
+          "https://www.fuerteventura-shopping.com/",
+          "https://ccatlanticofuerteventura.com/tiendas/",
+          "https://salinamoda.com/",
+          "https://www.aemet.es/es/eltiempo/prediccion/municipios/puerto-del-rosario-id35017"
+        ],
+        "featuredImage": "/assets/blog-tiendas-moda-mujer-fuerteventura.jpg",
+        "featuredImageAlt": "Perchero con vestidos ligeros, conjuntos y complementos en una boutique luminosa de Fuerteventura",
+        "youtubeEmbed": null
+      },
+      "qa": {
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "localVerification": "passed",
+        "liveVerification": "passed",
+        "verifiedAt": "2026-07-21T07:45:00+02:00",
+        "verifiedChecks": [
+          "Production build passed via Eleventy 3.1.6",
+          "Article has one H1, Article schema, FAQ schema, canonical, Open Graph image and featured image reference",
+          "Article card added to /blog/",
+          "Article URL added to /sitemap.xml",
+          "Local desktop render has no extra document width",
+          "Local mobile render has no extra document width and table scrolls internally",
+          "HTTP 200 on final article URL",
+          "Expected H1 present on custom domain",
+          "Canonical matches final URL on custom domain",
+          "Featured image returns image/jpeg and loads in browser",
+          "Article card present on /blog/ custom domain",
+          "Article URL present in /sitemap.xml custom domain",
+          "Live desktop render has no extra document width",
+          "Live mobile render has no extra document width and table scrolls internally"
         ]
       }
     }
