@@ -302,6 +302,36 @@
           "Static responsive checks confirmed viewport meta, constrained content widths, responsive hero image classes and table overflow-x container; Playwright browser launch was unavailable in this sandbox"
         ]
       }
+    },
+    {
+      "keyword": "crear un lookbook conceptual de moda con un generador de imágenes IA",
+      "slug": "crear-lookbook-conceptual-moda-generador-imagenes-ia",
+      "title": "Cómo crear un lookbook conceptual de moda con un generador de imágenes IA",
+      "url": "https://egosuspicio.com/blog/crear-lookbook-conceptual-moda-generador-imagenes-ia/",
+      "language": "es",
+      "market": "Google ES / Canarias",
+      "status": "published",
+      "publicationDate": "2026-08-08",
+      "publishedCommit": "863e268",
+      "campaign": "Magnific guest-post campaign 2026-08-08",
+      "content": {
+        "featuredImage": "/assets/blog-lookbook-conceptual-ia.jpg",
+        "editorialAnchor": "herramientas de imagen de Magnific",
+        "editorialDestination": "https://www.magnific.com/ai/image-generator"
+      },
+      "qa": {
+        "build": "passed",
+        "liveVerification": "passed",
+        "verifiedAt": "2026-08-08T23:04:35+02:00",
+        "deploymentWorkflow": "31278268099 completed_success",
+        "verifiedChecks": [
+          "HTTP 200 on final article URL and featured image",
+          "Expected H1 and canonical matched",
+          "Article card present on /blog/",
+          "Article URL present in /sitemap.xml",
+          "Exactly one followed editorial link used the approved anchor and destination"
+        ]
+      }
     }
   ]
 }
