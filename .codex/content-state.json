@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-08-09",
+  "lastUpdated": "2026-08-13",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -414,6 +414,60 @@
           "Article URL present in /sitemap.xml custom domain",
           "Static responsive checks confirmed viewport meta, constrained content width, responsive hero image and table overflow-x container; Playwright was unavailable locally"
         ]
+      }
+    },
+    {
+      "keyword": "qué calzado llevar a fuerteventura: ciudad, playa y caminatas suaves",
+      "priority": "Campaign",
+      "slug": "calzado-fuerteventura-ciudad-playa-caminatas",
+      "title": "Qué calzado llevar a Fuerteventura: ciudad, playa y caminatas suaves",
+      "url": "https://egosuspicio.com/blog/calzado-fuerteventura-ciudad-playa-caminatas/",
+      "language": "es",
+      "market": "Google ES",
+      "status": "prepared",
+      "publicationDate": "2026-08-13",
+      "publishedCommit": null,
+      "serpResearch": {
+        "date": "2026-08-13",
+        "queries": [
+          "Qué calzado llevar a Fuerteventura: ciudad, playa y caminatas suaves"
+        ],
+        "observations": [
+          "SERP reviewed for intent, competing formats, entities, structure and content gaps.",
+          "Article differentiated for the source domain and its audience."
+        ],
+        "sources": [
+          "https://www.visitfuerteventura.com/",
+          "https://www.aemet.es/es/eltiempo/prediccion/municipios/puerto-del-rosario-id35017",
+          "https://www.miteco.gob.es/es/desarrollo-rural/temas/caminos-naturales/caminos-naturales/sector-canario/fuerteventura/default.aspx"
+        ]
+      },
+      "content": {
+        "format": "editorial guide/comparison",
+        "targetWords": "1300-2200",
+        "internalLinks": [
+          "https://egosuspicio.com/blog/mejores-looks-de-verano-en-fuerteventura/",
+          "https://egosuspicio.com/blog/mejores-vestidos-para-clima-canario/",
+          "https://egosuspicio.com/blog/mejores-tiendas-de-ropa-en-puerto-del-rosario/",
+          "https://egosuspicio.com/visitanos/"
+        ],
+        "externalLinks": [
+          "https://barefootopiniones.com/",
+          "https://www.visitfuerteventura.com/",
+          "https://www.aemet.es/es/eltiempo/prediccion/municipios/puerto-del-rosario-id35017",
+          "https://www.miteco.gob.es/es/desarrollo-rural/temas/caminos-naturales/caminos-naturales/sector-canario/fuerteventura/default.aspx"
+        ],
+        "featuredImage": "/assets/calzado-fuerteventura.webp",
+        "featuredImageAlt": "Zapatillas, sandalias y calzado de sendero preparados junto a un bolso antes de salir en Fuerteventura",
+        "youtubeEmbed": null
+      },
+      "qa": {
+        "editorialSecondPass": "pending",
+        "build": "pending",
+        "localVerification": "pending",
+        "liveVerification": "pending",
+        "verifiedAt": null,
+        "verifiedChecks": []
       }
     }
   ]
