@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-08-16",
+  "lastUpdated": "2026-08-17",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -557,6 +557,80 @@
           "Article card present on /blog/ custom domain",
           "Article URL present in /sitemap.xml custom domain",
           "Static responsive checks confirmed viewport meta, constrained hero image and table overflow-x container; Playwright import was unavailable in this environment"
+        ]
+      }
+    },
+    {
+      "keyword": "mejores conjuntos de mujer para viajar a Canarias",
+      "priority": "Alta",
+      "slug": "mejores-conjuntos-mujer-viajar-canarias",
+      "title": "Mejores conjuntos de mujer para viajar a Canarias: 10 ideas utiles",
+      "url": "https://egosuspicio.com/blog/mejores-conjuntos-mujer-viajar-canarias/",
+      "language": "es",
+      "market": "Google ES / Fuerteventura",
+      "status": "pushed_pending_verification",
+      "publicationDate": "2026-08-17",
+      "serpResearch": {
+        "date": "2026-08-17",
+        "queries": [
+          "mejores conjuntos de mujer para viajar a Canarias ropa viaje Canarias",
+          "que ropa llevar a Canarias mujer viaje conjuntos",
+          "outfits para viajar a Canarias mujer"
+        ],
+        "observations": [
+          "La SERP actual mezcla guias de maleta para Canarias, looks por isla, articulos hoteleros, recomendaciones de ropa ligera y algunas paginas e-commerce de conjuntos coordinados.",
+          "La intencion es BOFU/comercial: elegir conjuntos concretos para comprar, probar o preparar antes del viaje, no solo leer una checklist generica.",
+          "Los primeros resultados relevantes suelen usar formato guia/checklist, con imagenes y algunas tablas de contenido, pero poca comparativa por plan, microclima, capas, calzado y repeticion de prendas.",
+          "El gap cubierto es una matriz de conjuntos completos para avion, ciudad, playa, cena, caminatas suaves y zonas ventosas, evitando claims de precio, reseñas o experiencia personal no verificable."
+        ],
+        "sources": [
+          "https://guiacanarias.com/look-para-viajar-a-canarias-guia-de-estilo-y-comodidad",
+          "https://alisiowear.com/blogs/diario-alisio/que-ropa-llevar-para-viajar-a-canarias",
+          "https://www.lopesan.com/blog/ropa-maleta-gran-canaria/",
+          "https://inviaggioallecanarie.it/es/cosa-mettere-in-valigia-per-venire-alle-isole-canarie/",
+          "https://veronicachic.com/looks-para-viajar-a-canarias/",
+          "https://www.trendencias.com/shopping/nuevo-zara-cinco-conjuntos-frescos-ideales-para-hacer-turismo-verano-e-ir-comoda-sandalias-planas/amp",
+          "https://www.evaneos.es/canary-islands/viajes/prepara-tu-maleta/",
+          "https://www.holaislascanarias.com/experiencias/7-consejos-para-planificar-un-viaje-de-larga-duracion-en-el-archipielago-canario/",
+          "https://www3.gobiernodecanarias.org/medusa/wiki/index.php?title=Factores_del_clima_en_las_Islas_Canarias",
+          "https://www.aemet.es/en/serviciosclimaticos/vigilancia_clima/resumenes?k=coo&w=1"
+        ]
+      },
+      "content": {
+        "format": "BOFU listicle/comparativa",
+        "targetWords": "1300-2400",
+        "internalLinks": [
+          "https://egosuspicio.com/blog/mejores-looks-de-verano-en-fuerteventura/",
+          "https://egosuspicio.com/blog/mejores-vestidos-para-clima-canario/",
+          "https://egosuspicio.com/categoria/conjuntos/",
+          "https://egosuspicio.com/visitanos/"
+        ],
+        "externalLinks": [
+          "https://www.holaislascanarias.com/experiencias/7-consejos-para-planificar-un-viaje-de-larga-duracion-en-el-archipielago-canario/",
+          "https://www3.gobiernodecanarias.org/medusa/wiki/index.php?title=Factores_del_clima_en_las_Islas_Canarias",
+          "https://www.aemet.es/en/serviciosclimaticos/vigilancia_clima/resumenes?k=coo&w=1",
+          "https://www.evaneos.es/canary-islands/viajes/prepara-tu-maleta/"
+        ],
+        "featuredImage": "/assets/blog-conjuntos-mujer-viajar-canarias.jpg",
+        "featuredImageAlt": "Conjuntos de mujer para viajar a Canarias con maleta, lino, cardigan, sandalias y bolso de rafia",
+        "youtubeEmbed": null,
+        "actualWords": 1908
+      },
+      "qa": {
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "localVerification": "passed",
+        "liveVerification": "pending",
+        "localVerifiedAt": "2026-08-17T05:55:00Z",
+        "verifiedChecks": [
+          "Production build passed via Eleventy 3.1.6",
+          "Article has one H1, canonical, Open Graph image, Article schema and FAQ schema",
+          "Visible word count is 1908",
+          "Article card added to /blog/",
+          "Article URL added to /sitemap.xml",
+          "Featured image is JPEG 1672x941 and referenced by article and OG image",
+          "Internal links point to existing local URLs",
+          "No YouTube embed included because no materially useful video fit the intent"
         ]
       }
     }
