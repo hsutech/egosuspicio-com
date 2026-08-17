@@ -568,7 +568,7 @@
       "url": "https://egosuspicio.com/blog/mejores-conjuntos-mujer-viajar-canarias/",
       "language": "es",
       "market": "Google ES / Fuerteventura",
-      "status": "pushed_pending_verification",
+      "status": "published",
       "publicationDate": "2026-08-17",
       "serpResearch": {
         "date": "2026-08-17",
@@ -620,7 +620,7 @@
         "editorialSecondPass": "passed",
         "build": "passed",
         "localVerification": "passed",
-        "liveVerification": "pending",
+        "liveVerification": "passed",
         "localVerifiedAt": "2026-08-17T05:55:00Z",
         "verifiedChecks": [
           "Production build passed via Eleventy 3.1.6",
@@ -630,9 +630,19 @@
           "Article URL added to /sitemap.xml",
           "Featured image is JPEG 1672x941 and referenced by article and OG image",
           "Internal links point to existing local URLs",
+          "HTTP 200 on final article URL",
+          "Expected H1 present on custom domain",
+          "Canonical matches final URL on custom domain",
+          "Article and FAQ schema present on custom domain",
+          "Featured image returns image/jpeg on custom domain",
+          "Article card present on /blog/ custom domain",
+          "Article URL present in /sitemap.xml custom domain",
+          "Static responsive checks passed: viewport meta, responsive hero image, fixed hero aspect ratio and table overflow container",
           "No YouTube embed included because no materially useful video fit the intent"
-        ]
-      }
+        ],
+        "verifiedAt": "2026-08-17T05:58:30Z"
+      },
+      "publishedCommit": "2608377"
     }
   ]
 }
