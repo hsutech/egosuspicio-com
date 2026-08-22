@@ -652,8 +652,9 @@
       "url": "https://egosuspicio.com/blog/mejores-prendas-ligeras-para-fuerteventura/",
       "language": "es",
       "market": "Google ES / Fuerteventura",
-      "status": "drafted",
+      "status": "published",
       "publicationDate": "2026-08-22",
+      "publishedCommit": "982a763",
       "serpResearch": {
         "date": "2026-08-22",
         "queries": [
@@ -703,10 +704,12 @@
       },
       "qa": {
         "editorialSecondPass": "passed",
-        "build": "local_hung_before_output",
+        "build": "local_hung_before_output_remote_workflow_passed",
         "localVerification": "passed_static",
-        "liveVerification": "pending",
+        "liveVerification": "passed",
         "localVerifiedAt": "2026-08-22T08:05:00+02:00",
+        "verifiedAt": "2026-08-22T08:06:00+02:00",
+        "deploymentWorkflow": "32556014950 completed_success",
         "verifiedChecks": [
           "Article has 1767 visible words, one H1, self-referencing canonical, Article schema, FAQ schema and Open Graph image",
           "Article card added to /blog/",
@@ -715,7 +718,15 @@
           "Internal links point to existing local URLs",
           "No YouTube embed included because no materially useful video fit the intent",
           "Static responsive checks passed: viewport meta, responsive hero image, fixed hero aspect ratio and table overflow container",
-          "Local Eleventy build hung before output in both dirty and clean worktrees; process was stopped to respect automation timeout"
+          "Local Eleventy build hung before output in both dirty and clean worktrees; process was stopped to respect automation timeout",
+          "GitHub Actions deployment workflow completed successfully",
+          "HTTP 200 on final article URL",
+          "Expected H1 present on custom domain",
+          "Canonical matches final URL on custom domain",
+          "Article and FAQ schema present on custom domain",
+          "Featured image returns HTTP 200 image/jpeg on custom domain",
+          "Article card present on /blog/ custom domain",
+          "Article URL present in /sitemap.xml custom domain"
         ]
       }
     }
