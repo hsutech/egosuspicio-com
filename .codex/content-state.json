@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-08-30",
+  "lastUpdated": "2026-08-31",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -814,6 +814,100 @@
         ]
       },
       "publishedCommit": "c53ac3e"
+    },
+    {
+      "keyword": "boutiques de moda en Puerto del Rosario opiniones",
+      "priority": "Alta",
+      "slug": "boutiques-moda-puerto-del-rosario-opiniones",
+      "title": "Boutiques de moda en Puerto del Rosario: opiniones y criterios para elegir",
+      "url": "https://egosuspicio.com/blog/boutiques-moda-puerto-del-rosario-opiniones/",
+      "language": "es",
+      "market": "Google ES / Fuerteventura",
+      "status": "published",
+      "publicationDate": "2026-08-31",
+      "publishedCommit": "7209e31",
+      "serpResearch": {
+        "date": "2026-08-31",
+        "queries": [
+          "boutiques de moda en Puerto del Rosario opiniones",
+          "boutique ropa mujer Puerto del Rosario opiniones Fuerteventura",
+          "tiendas moda mujer Puerto del Rosario opiniones",
+          "Egosuspicio Puerto del Rosario opiniones boutique",
+          "Centro Comercial Las Rotondas moda Puerto del Rosario tiendas ropa mujer",
+          "asociación Puerto del Rosario moda complementos tiendas Puerto del Rosario",
+          "Discover Puerto del Rosario zona comercial abierta Primero de Mayo tiendas",
+          "AEMET Puerto del Rosario predicción viento Fuerteventura"
+        ],
+        "observations": [
+          "La SERP actual mezcla directorios de moda mujer, fichas de tiendas, paginas de opiniones, centros comerciales, asociaciones comerciales y contexto turistico/comercial local.",
+          "La intencion es BOFU local: el lector quiere decidir si visitar una boutique concreta y como interpretar resenas antes de comprar moda femenina en Puerto del Rosario.",
+          "Los comparables accesibles suelen mostrar nombres, direcciones, ratings o resenas resumidas, pero aportan poca metodologia para separar trato, tallas, cambios, tejido, fecha de opinion y tipo de prenda.",
+          "Para evitar canibalizacion con las guias ya publicadas de boutiques, tiendas de ropa y complementos, el articulo se centra en interpretar opiniones como senales verificables, no en repetir un ranking de establecimientos.",
+          "No se inventaron resenas, ratings propios, precios, experiencia personal ni afirmaciones de superioridad; las recomendaciones se formulan por criterios de compra y fuentes verificables."
+        ],
+        "sources": [
+          "https://www.paginasamarillas.es/a/moda-mujer/las-palmas/puerto-del-rosario/",
+          "https://canariasrecomienda.com/moda/fuerteventura/puerto-del-rosario/el-desvan-de-la-moda/",
+          "https://nicanora.es/ubicacion/canarias/las-palmas/puerto-del-rosario/",
+          "https://www.tripadvisor.es/Attractions-g1064406-Activities-c26-Puerto_del_Rosario_Fuerteventura_Canary_Islands.html",
+          "https://asociacionpuertodelrosario.es/moda",
+          "https://discoverpuerto.es/lugar/zona-comercial-abierta-calle-primero-de-mayo-y-sus-alrededores/",
+          "https://lasrotondascentrocomercial.com/es/tienda/91",
+          "https://www.aemet.es/es/eltiempo/prediccion/municipios/puerto-del-rosario-id35017"
+        ]
+      },
+      "content": {
+        "format": "BOFU opinions/review guide",
+        "targetWords": "1300-2400",
+        "actualWords": 2013,
+        "internalLinks": [
+          "https://egosuspicio.com/blog/mejores-tiendas-de-ropa-en-puerto-del-rosario/",
+          "https://egosuspicio.com/blog/mejores-boutiques-en-fuerteventura/",
+          "https://egosuspicio.com/blog/mejores-vestidos-para-invitada-en-fuerteventura/",
+          "https://egosuspicio.com/blog/mejores-tiendas-de-complementos-en-fuerteventura/",
+          "https://egosuspicio.com/shop/",
+          "https://egosuspicio.com/visitanos/"
+        ],
+        "externalLinks": [
+          "https://www.paginasamarillas.es/a/moda-mujer/las-palmas/puerto-del-rosario/",
+          "https://asociacionpuertodelrosario.es/moda",
+          "https://discoverpuerto.es/lugar/zona-comercial-abierta-calle-primero-de-mayo-y-sus-alrededores/",
+          "https://www.tripadvisor.es/Attractions-g1064406-Activities-c26-Puerto_del_Rosario_Fuerteventura_Canary_Islands.html",
+          "https://lasrotondascentrocomercial.com/es/tienda/91",
+          "https://www.aemet.es/es/eltiempo/prediccion/municipios/puerto-del-rosario-id35017"
+        ],
+        "featuredImage": "/assets/blog-boutiques-puerto-del-rosario-opiniones.jpg",
+        "featuredImageAlt": "Ropa ligera, bolso, sandalias y libreta en una boutique luminosa para revisar opiniones antes de comprar",
+        "imagePrompt": "Original editorial still life for an article about reading boutique reviews and choosing fashion boutiques in Puerto del Rosario: folded lightweight womens clothing, handbag, sandals, sunglasses, blank notebook and phone with abstract stars; no people, logos, readable text or real rating claims.",
+        "youtubeEmbed": null
+      },
+      "qa": {
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "localVerification": "passed_static",
+        "liveVerification": "passed",
+        "verifiedAt": "2026-08-31T06:00:30Z",
+        "deploymentWorkflow": "33362422894 completed_success_with_known_project_create_annotations",
+        "verifiedChecks": [
+          "Campaign article reverified live before routine selection: HTTP 200, expected H1/canonical and exactly one followed Magnific backlink.",
+          "Article has 2013 visible words, one H1, self-referencing canonical, Article schema, FAQ schema and Open Graph image.",
+          "Article card present on /blog/.",
+          "Article URL present in /sitemap.xml.",
+          "Featured image is original generated JPEG 1672x941 and public image returns HTTP 200 image/jpeg.",
+          "Internal links point to existing URLs and external source links are present.",
+          "Static responsive checks passed: viewport meta, responsive hero image, mobile header and table overflow-x container.",
+          "No YouTube embed included because no materially useful real video was needed for the intent.",
+          "Production build passed locally via Eleventy 3.1.6.",
+          "GitHub Actions deployment workflow 33362422894 completed successfully; known annotations remained on project-create/Node step.",
+          "HTTP 200 on final article URL.",
+          "Expected H1 present on custom domain.",
+          "Canonical matches final URL on custom domain.",
+          "Article and FAQ schema present on custom domain.",
+          "Featured image returns HTTP 200 image/jpeg on custom domain.",
+          "Article card present on /blog/ custom domain.",
+          "Article URL present in /sitemap.xml custom domain."
+        ]
+      }
     }
   ]
 }
