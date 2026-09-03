@@ -1004,9 +1004,9 @@
       "url": "https://egosuspicio.com/blog/looks-para-una-boda-en-canarias/",
       "language": "es",
       "market": "Google ES / Fuerteventura",
-      "status": "draft_ready_pending_verification",
+      "status": "published",
       "publicationDate": "2026-09-02",
-      "publishedCommit": null,
+      "publishedCommit": "8daf1e3",
       "serpResearch": {
         "date": "2026-09-02",
         "queries": [
@@ -1060,14 +1060,24 @@
         "editorialSecondPass": "passed",
         "build": "passed",
         "localVerification": "passed",
-        "liveVerification": "pending",
-        "verifiedAt": null,
+        "liveVerification": "passed",
+        "verifiedAt": "2026-09-03T05:49:00Z",
+        "deploymentWorkflow": "33720358496 completed_success_with_known_project_create_annotations",
         "verifiedChecks": [
           "Production build passed via Eleventy 3.1.6",
           "Article has one H1, canonical, Article schema, FAQ schema and Open Graph/Twitter image",
           "Article card added to /blog/ and URL added to /sitemap.xml",
           "Featured image generated as original JPEG and included in dist assets",
-          "Local browser render passed at 1366x768 and 390x844 with no horizontal overflow and no console errors"
+          "Local browser render passed at 1366x768 and 390x844 with no horizontal overflow and no console errors",
+          "GitHub Actions deployment workflow 33720358496 completed successfully; known annotations remained on project-create/Node step.",
+          "HTTP 200 on final article URL.",
+          "Expected H1 present on custom domain.",
+          "Canonical matches final URL on custom domain.",
+          "Article and FAQ schema present on custom domain.",
+          "Featured image returns HTTP 200 image/jpeg on custom domain.",
+          "Article card present on /blog/ custom domain.",
+          "Article URL present in /sitemap.xml custom domain.",
+          "Magnific campaign article still has exactly one followed backlink with the required anchor and destination."
         ]
       }
     }
