@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-09-03",
+  "lastUpdated": "2026-09-08",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -1079,6 +1079,83 @@
           "Article URL present in /sitemap.xml custom domain.",
           "Article datePublished/dateModified and sitemap lastmod are 2026-09-03 on custom domain.",
           "Magnific campaign article still has exactly one followed backlink with the required anchor and destination."
+        ]
+      }
+    },
+    {
+      "keyword": "mejores vestidos frescos para mujer",
+      "priority": "Media",
+      "slug": "mejores-vestidos-frescos-para-mujer",
+      "title": "Mejores vestidos frescos para mujer: 10 opciones útiles",
+      "url": "https://egosuspicio.com/blog/mejores-vestidos-frescos-para-mujer/",
+      "language": "es",
+      "market": "Google ES / Fuerteventura",
+      "status": "validated_unpushed",
+      "publicationDate": "2026-09-08",
+      "publishedCommit": null,
+      "serpResearch": {
+        "date": "2026-09-08",
+        "queries": [
+          "mejores vestidos frescos para mujer España 2026",
+          "mejores vestidos frescos para mujer verano 2026 España",
+          "vestidos frescos verano tejidos lino algodón viscosa España",
+          "vestidos frescos mujer Fuerteventura clima viento"
+        ],
+        "observations": [
+          "La SERP actual mezcla medios de moda, escaparates editoriales, tiendas con filtros de vestidos de lino/verano y blogs comerciales.",
+          "La intención es BOFU/comercial: la lectora ya quiere comprar o filtrar vestidos frescos, pero necesita criterios por tejido, corte, largo, uso y comodidad térmica.",
+          "Los comparables usan selección visual, autoría visible en medios, listas de producto, consejos de tejidos y recomendaciones generales de verano; rara vez bajan a viento, maleta y uso local en Fuerteventura.",
+          "El artículo evita canibalización con vestidos para clima canario y prendas ligeras para Fuerteventura: se centra solo en tipos de vestido fresco y decisión de compra.",
+          "No se usan precios, reseñas, ratings, pruebas propias ni afirmaciones de disponibilidad como claims editoriales."
+        ],
+        "sources": [
+          "https://elpais.com/escaparate/ofertas-y-descuentos/vestidos-frescos-de-verano.html",
+          "https://www.marie-claire.es/moda/vestidos-frescos-looks-refrescantes-verano-estilismos.html",
+          "https://www.vogue.es/articulos/compras-vestidos-fluidos-tendencias-verano",
+          "https://blog.massana.es/vestidos-de-verano-que-no-dan-calor-como-elegirlos/",
+          "https://capriche.es/blogs/vestidos/vestidos-fresquitos-para-el-verano-tejidos-y-cortes-que-no-dan-calor",
+          "https://www.visitfuerteventura.com/fuerteventura/el-clima/",
+          "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C249I"
+        ]
+      },
+      "content": {
+        "format": "BOFU listicle/comparativa",
+        "targetWords": "1800-2400",
+        "actualWords": 1940,
+        "internalLinks": [
+          "https://egosuspicio.com/blog/mejores-vestidos-para-clima-canario/",
+          "https://egosuspicio.com/blog/mejores-prendas-ligeras-para-fuerteventura/",
+          "https://egosuspicio.com/blog/mejores-tiendas-de-complementos-en-fuerteventura/",
+          "https://egosuspicio.com/categoria/vestidos-cortos/",
+          "https://egosuspicio.com/shop/",
+          "https://egosuspicio.com/visitanos/"
+        ],
+        "externalLinks": [
+          "https://elpais.com/escaparate/ofertas-y-descuentos/vestidos-frescos-de-verano.html",
+          "https://www.marie-claire.es/moda/vestidos-frescos-looks-refrescantes-verano-estilismos.html",
+          "https://www.vogue.es/articulos/compras-vestidos-fluidos-tendencias-verano",
+          "https://blog.massana.es/vestidos-de-verano-que-no-dan-calor-como-elegirlos/",
+          "https://www.visitfuerteventura.com/fuerteventura/el-clima/",
+          "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C249I"
+        ],
+        "featuredImage": "/assets/blog-vestidos-frescos-mujer.jpg",
+        "featuredImageAlt": "Vestidos frescos de mujer en blanco, coral y verde salvia con sandalias, bolso de rafia y pañuelo ligero",
+        "youtubeEmbed": null,
+        "imagePrompt": "Editorial still life of fresh summer dresses for women prepared for Fuerteventura weather; no text, no logos, no product availability claims."
+      },
+      "qa": {
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "localVerification": "passed_static",
+        "liveVerification": "pending",
+        "verifiedAt": "2026-09-08T05:58:00Z",
+        "verifiedChecks": [
+          "Production build passed via Eleventy 3.1.6.",
+          "Article has one H1, expected canonical, Article schema, FAQ schema and Open Graph/Twitter image.",
+          "Article card added to /blog/ and URL added to /sitemap.xml.",
+          "Featured image generated as original bitmap and optimized to 1672x941 JPEG at 336 KB.",
+          "Static dist check passed for article URL, canonical, featured image reference, blog listing, sitemap, viewport meta and table overflow-x container.",
+          "Browser/Playwright visual render unavailable in this session."
         ]
       }
     }
