@@ -1090,7 +1090,7 @@
       "url": "https://egosuspicio.com/blog/mejores-vestidos-frescos-para-mujer/",
       "language": "es",
       "market": "Google ES / Fuerteventura",
-      "status": "validated_unpushed",
+      "status": "local_committed_unpushed",
       "publicationDate": "2026-09-08",
       "publishedCommit": null,
       "serpResearch": {
@@ -1147,7 +1147,7 @@
         "editorialSecondPass": "passed",
         "build": "passed",
         "localVerification": "passed_static",
-        "liveVerification": "pending",
+        "liveVerification": "blocked_not_pushed",
         "verifiedAt": "2026-09-08T05:58:00Z",
         "verifiedChecks": [
           "Production build passed via Eleventy 3.1.6.",
@@ -1155,9 +1155,11 @@
           "Article card added to /blog/ and URL added to /sitemap.xml.",
           "Featured image generated as original bitmap and optimized to 1672x941 JPEG at 336 KB.",
           "Static dist check passed for article URL, canonical, featured image reference, blog listing, sitemap, viewport meta and table overflow-x container.",
-          "Browser/Playwright visual render unavailable in this session."
+          "Browser/Playwright visual render unavailable in this session.",
+          "Publication blocked: escalated git push origin main was rejected by approval policy because it triggers production deployment."
         ]
-      }
+      },
+      "localCommit": "f6052b2"
     }
   ]
 }
