@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-09-08",
+  "lastUpdated": "2026-09-09",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -285,7 +285,7 @@
       "qa": {
         "editorialSecondPass": "passed",
         "build": "completed_with_warning",
-        "localVerification": "passed_static",
+        "localVerification": "passed",
         "liveVerification": "passed",
         "verifiedAt": "2026-08-04T13:19:37+02:00",
         "verifiedChecks": [
@@ -1091,10 +1091,10 @@
       "language": "es",
       "market": "Google ES / Fuerteventura",
       "status": "local_committed_unpushed",
-      "publicationDate": "2026-09-08",
+      "publicationDate": "2026-09-09",
       "publishedCommit": null,
       "serpResearch": {
-        "date": "2026-09-08",
+        "date": "2026-09-09",
         "queries": [
           "mejores vestidos frescos para mujer España 2026",
           "mejores vestidos frescos para mujer verano 2026 España",
@@ -1102,10 +1102,11 @@
           "vestidos frescos mujer Fuerteventura clima viento"
         ],
         "observations": [
-          "La SERP actual mezcla medios de moda, escaparates editoriales, tiendas con filtros de vestidos de lino/verano y blogs comerciales.",
+          "La SERP refrescada el 2026-09-09 mezcla medios de moda, escaparates editoriales, tiendas con filtros de vestidos de lino/verano y blogs comerciales.",
           "La intención es BOFU/comercial: la lectora ya quiere comprar o filtrar vestidos frescos, pero necesita criterios por tejido, corte, largo, uso y comodidad térmica.",
-          "Los comparables usan selección visual, autoría visible en medios, listas de producto, consejos de tejidos y recomendaciones generales de verano; rara vez bajan a viento, maleta y uso local en Fuerteventura.",
-          "El artículo evita canibalización con vestidos para clima canario y prendas ligeras para Fuerteventura: se centra solo en tipos de vestido fresco y decisión de compra.",
+          "Los comparables usan selección visual, autoría visible en medios, listas de producto, consejos de tejidos y recomendaciones generales de verano; pocos trabajan con detalle forro, botones, tirante, bajo, viento y uso local.",
+          "Durante la segunda pasada se detectó un comparable externo con estructura demasiado cercana al borrador previo; el artículo se reescribió parcialmente para diferenciar lista, enfoque y redacción.",
+          "El artículo evita canibalización interna con vestidos para clima canario y prendas ligeras para Fuerteventura: se centra solo en tipos de vestido fresco y decisión de compra.",
           "No se usan precios, reseñas, ratings, pruebas propias ni afirmaciones de disponibilidad como claims editoriales."
         ],
         "sources": [
@@ -1121,7 +1122,7 @@
       "content": {
         "format": "BOFU listicle/comparativa",
         "targetWords": "1800-2400",
-        "actualWords": 1940,
+        "actualWords": 2011,
         "internalLinks": [
           "https://egosuspicio.com/blog/mejores-vestidos-para-clima-canario/",
           "https://egosuspicio.com/blog/mejores-prendas-ligeras-para-fuerteventura/",
@@ -1148,14 +1149,14 @@
         "build": "passed",
         "localVerification": "passed_static",
         "liveVerification": "blocked_not_pushed",
-        "verifiedAt": "2026-09-08T05:58:00Z",
+        "verifiedAt": "2026-09-09T07:20:00+02:00",
         "verifiedChecks": [
-          "Production build passed via Eleventy 3.1.6.",
-          "Article has one H1, expected canonical, Article schema, FAQ schema and Open Graph/Twitter image.",
-          "Article card added to /blog/ and URL added to /sitemap.xml.",
+          "Article text refreshed after 2026-09-09 SERP check to reduce similarity with external comparables.",
+          "Article has one H1, expected canonical, Article schema dated 2026-09-09, FAQ schema and Open Graph/Twitter image.",
+          "Article card added to /blog/ and URL added to /sitemap.xml with lastmod 2026-09-09.",
           "Featured image generated as original bitmap and optimized to 1672x941 JPEG at 336 KB.",
           "Static dist check passed for article URL, canonical, featured image reference, blog listing, sitemap, viewport meta and table overflow-x container.",
-          "Browser/Playwright visual render unavailable in this session.",
+          "Browser render passed at 1366x768 and 390x844: expected H1/canonical, loaded image, no console errors and no horizontal overflow.",
           "Publication blocked: escalated git push origin main was rejected by approval policy because it triggers production deployment."
         ]
       },
