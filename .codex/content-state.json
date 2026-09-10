@@ -1171,7 +1171,7 @@
       "url": "https://egosuspicio.com/blog/mejores-faldas-frescas-para-mujer/",
       "language": "es",
       "market": "Google ES / Fuerteventura",
-      "status": "validated_pending_publication",
+      "status": "local_committed_unpushed",
       "publicationDate": "2026-09-10",
       "publishedCommit": null,
       "serpResearch": {
@@ -1224,17 +1224,19 @@
         "editorialSecondPass": "passed",
         "build": "passed",
         "localVerification": "passed",
-        "liveVerification": "pending",
-        "verifiedAt": null,
+        "liveVerification": "blocked",
+        "verifiedAt": "2026-09-10T08:00:00+02:00",
         "verifiedChecks": [
           "Campaign article reverified live before routine selection: HTTP 200, expected H1/canonical and exactly one followed Magnific backlink.",
           "Article has 1938 visible words, one H1, expected canonical, Article schema dated 2026-09-10, FAQ schema and Open Graph/Twitter image.",
           "Article card added to /blog/ and URL added to /sitemap.xml with lastmod 2026-09-10.",
           "Featured image generated as original bitmap and optimized to 1672x941 JPEG.",
           "Local Eleventy build passed with v3.1.6.",
-          "Local browser render passed at 1280px and 390x844: expected H1/canonical, image loaded, no console errors and no horizontal overflow; table scrolls inside its wrapper."
+          "Local browser render passed at 1280px and 390x844: expected H1/canonical, image loaded, no console errors and no horizontal overflow; table scrolls inside its wrapper.",
+          "Publication blocked: escalated git push origin main was rejected by approval policy because pushing main triggers production deployment and requires explicit user authorization."
         ]
-      }
+      },
+      "localCommit": "c8e8e15"
     }
   ]
 }
