@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-09-09",
+  "lastUpdated": "2026-09-10",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -1162,6 +1162,79 @@
         ]
       },
       "localCommit": "f6052b2"
+    },
+    {
+      "keyword": "mejores faldas frescas para mujer",
+      "priority": "Media",
+      "slug": "mejores-faldas-frescas-para-mujer",
+      "title": "Mejores faldas frescas para mujer: 10 opciones útiles",
+      "url": "https://egosuspicio.com/blog/mejores-faldas-frescas-para-mujer/",
+      "language": "es",
+      "market": "Google ES / Fuerteventura",
+      "status": "validated_pending_publication",
+      "publicationDate": "2026-09-10",
+      "publishedCommit": null,
+      "serpResearch": {
+        "date": "2026-09-10",
+        "queries": [
+          "mejores faldas frescas para mujer verano 2026 España",
+          "faldas verano mujer 2026 España",
+          "faldas pareo verano mujer 2026",
+          "faldas lino algodón viscosa mujer verano",
+          "Fuerteventura clima alisios ropa mujer falda verano"
+        ],
+        "observations": [
+          "La SERP española mezcla listicles y galerías editoriales, categorías ecommerce y piezas de compra de temporada; la intención dominante es BOFU/comercial.",
+          "Los comparables priorizan tendencia, producto y fotografía; el hueco editorial es explicar pruebas de cintura, largo, abertura, forro y comportamiento con viento.",
+          "El artículo evita canibalización con vestidos frescos, vestidos para clima canario, prendas ligeras y guías de maleta al centrarse solo en faldas y criterios de compra.",
+          "No se inventaron precios, reseñas, ratings, disponibilidad, pruebas propias ni experiencia personal."
+        ],
+        "sources": [
+          "https://www.vogue.es/articulos/faldas-tendencias-primavera-verano-2026",
+          "https://www.hola.com/moda/20260621908271/zara-faldas-midi-pareo-hacen-tipazo-verano-2026/",
+          "https://www.marie-claire.es/moda/tendencias/faldas-verano-mujer/",
+          "https://www.zara.com/es/es/mujer-faldas-l1299.html",
+          "https://www.visitfuerteventura.com/fuerteventura/el-clima/",
+          "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C249I"
+        ]
+      },
+      "content": {
+        "format": "BOFU listicle/comparativa",
+        "targetWords": "1300-2400",
+        "actualWords": 1938,
+        "internalLinks": [
+          "https://egosuspicio.com/blog/mejores-vestidos-frescos-para-mujer/",
+          "https://egosuspicio.com/blog/mejores-prendas-ligeras-para-fuerteventura/",
+          "https://egosuspicio.com/blog/mejores-tiendas-de-complementos-en-fuerteventura/",
+          "https://egosuspicio.com/categoria/faldas/",
+          "https://egosuspicio.com/visitanos/"
+        ],
+        "externalLinks": [
+          "https://www.vogue.es/articulos/faldas-tendencias-primavera-verano-2026",
+          "https://www.hola.com/moda/20260621908271/zara-faldas-midi-pareo-hacen-tipazo-verano-2026/",
+          "https://www.visitfuerteventura.com/fuerteventura/el-clima/",
+          "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C249I"
+        ],
+        "featuredImage": "/assets/blog-faldas-frescas-mujer-fuerteventura.jpg",
+        "featuredImageAlt": "Faldas frescas de mujer en lino blanco, coral y verde salvia con sandalias y bolso de rafia",
+        "youtubeEmbed": null,
+        "imagePrompt": "Original photorealistic editorial still life for a Spanish boutique guide about fresh skirts for women in Fuerteventura; no people, no text, no logos, no real product claims."
+      },
+      "qa": {
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "localVerification": "passed",
+        "liveVerification": "pending",
+        "verifiedAt": null,
+        "verifiedChecks": [
+          "Campaign article reverified live before routine selection: HTTP 200, expected H1/canonical and exactly one followed Magnific backlink.",
+          "Article has 1938 visible words, one H1, expected canonical, Article schema dated 2026-09-10, FAQ schema and Open Graph/Twitter image.",
+          "Article card added to /blog/ and URL added to /sitemap.xml with lastmod 2026-09-10.",
+          "Featured image generated as original bitmap and optimized to 1672x941 JPEG.",
+          "Local Eleventy build passed with v3.1.6.",
+          "Local browser render passed at 1280px and 390x844: expected H1/canonical, image loaded, no console errors and no horizontal overflow; table scrolls inside its wrapper."
+        ]
+      }
     }
   ]
 }
