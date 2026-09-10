@@ -1233,7 +1233,8 @@
           "Featured image generated as original bitmap and optimized to 1672x941 JPEG.",
           "Local Eleventy build passed with v3.1.6.",
           "Local browser render passed at 1280px and 390x844: expected H1/canonical, image loaded, no console errors and no horizontal overflow; table scrolls inside its wrapper.",
-          "Publication blocked: escalated git push origin main was rejected by approval policy because pushing main triggers production deployment and requires explicit user authorization."
+          "Publication blocked: escalated git push origin main was rejected by approval policy because pushing main triggers production deployment and requires explicit user authorization.",
+          "Public planned URL returned HTTP 200 but served homepage H1 and canonical, confirming the article is not deployed."
         ]
       },
       "localCommit": "c8e8e15"
