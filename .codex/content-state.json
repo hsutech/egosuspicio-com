@@ -1171,9 +1171,9 @@
       "url": "https://egosuspicio.com/blog/mejores-faldas-frescas-para-mujer/",
       "language": "es",
       "market": "Google ES / Fuerteventura",
-      "status": "local_committed_unpushed",
+      "status": "published",
       "publicationDate": "2026-09-12",
-      "publishedCommit": null,
+      "publishedCommit": "f8c305f",
       "serpResearch": {
         "date": "2026-09-12",
         "queries": [
@@ -1224,21 +1224,22 @@
         "editorialSecondPass": "passed",
         "build": "passed",
         "localVerification": "passed",
-        "liveVerification": "blocked",
-        "verifiedAt": "2026-09-12T07:49:49+02:00",
+        "liveVerification": "passed",
+        "verifiedAt": "2026-09-12T07:55:00+02:00",
         "verifiedChecks": [
           "Campaign article reverified live before routine selection: HTTP 200, expected H1/canonical and exactly one followed Magnific backlink.",
+          "Live SERP/source spot-check on 2026-09-12 still supported the BOFU skirt-shopping angle and cited sources.",
           "Article has 1931 visible words, one H1, expected canonical, Article schema dated 2026-09-12, FAQ schema and Open Graph/Twitter image.",
-          "Article card added to /blog/ and URL added to /sitemap.xml with lastmod 2026-09-12.",
-          "Featured image generated as original bitmap and optimized to 1672x941 JPEG.",
+          "Article card is present on /blog/ and URL is present in /sitemap.xml with lastmod 2026-09-12.",
+          "Featured image generated as original bitmap and served publicly as image/jpeg, 1672x941.",
           "Local Eleventy build passed with v3.1.6.",
-          "Local browser render passed at 1280px and 390x844: expected H1/canonical, image loaded, no console errors and no horizontal overflow; table scrolls inside its wrapper.",
-          "Publication blocked again on 2026-09-11: sandbox git push failed DNS and escalated git push origin main was rejected by approval policy because pushing main triggers production deployment and requires explicit user authorization.",
-          "Public planned URL returned HTTP 200 but served homepage H1 and canonical, public /blog/ and /sitemap.xml do not list the slug, confirming the article is not deployed.",
-          "Magnific campaign article reverified on 2026-09-11: HTTP 200, exactly one followed backlink with anchor herramientas de imagen de Magnific to https://www.magnific.com/ai/image-generator."
+          "GitHub Actions workflow 34676621715 completed and deployed to Cloudflare Pages; known Node/action annotations remained non-blocking.",
+          "Public verification passed: article HTTP 200, expected H1, canonical, Article/FAQ schema, featured image HTTP 200 image/jpeg, blog listing and sitemap entry.",
+          "Public browser render passed at 1366x768 and 390x844: expected H1/canonical, image loaded, no console errors and no horizontal overflow.",
+          "Magnific campaign article reverified on 2026-09-12: HTTP 200 and exactly one followed backlink with anchor herramientas de imagen de Magnific to https://www.magnific.com/ai/image-generator."
         ]
       },
-      "localCommit": "9726644"
+      "localCommit": "f8c305f"
     }
   ]
 }
