@@ -1249,7 +1249,7 @@
       "url": "https://egosuspicio.com/blog/mejores-camisetas-frescas-para-mujer/",
       "language": "es",
       "market": "Google ES / Fuerteventura",
-      "status": "local_validated",
+      "status": "published",
       "publicationDate": "2026-09-17",
       "serpResearch": {
         "date": "2026-09-17",
@@ -1302,18 +1302,27 @@
         "editorialSecondPass": "passed",
         "build": "passed",
         "localVerification": "passed",
-        "liveVerification": "not_started",
-        "verifiedAt": "2026-09-17T09:36:00+02:00",
+        "liveVerification": "passed",
+        "verifiedAt": "2026-09-17T09:43:00+02:00",
         "verifiedChecks": [
           "Production build passed via Eleventy 3.1.6",
           "Article has one H1, canonical, Article schema, FAQ schema, Open Graph image and featured image reference",
           "Visible word count approximately 2100 words",
           "Featured JPEG is 1672x941 and copied to dist",
           "Article card added to /blog/",
-          "Article URL added to /sitemap.xml",
-          "Headless Chrome desktop DOM loaded expected title, H1, canonical and featured image; mobile browser check not completed because Chrome did not exit cleanly"
+          "Article URL added to /sitemap.xml with lastmod 2026-09-17",
+          "Headless Chrome desktop screenshot captured at 1366x768",
+          "Headless Chrome mobile screenshot captured at 390x844 after mobile heading hotfix",
+          "Cloudflare Pages workflow 35195457085 completed with deploy step success; known Node/action annotations were non-blocking",
+          "Public article URL returned HTTP 200",
+          "Public page includes expected H1, canonical, schema date and featured image reference",
+          "Public featured image returned HTTP 200 image/jpeg",
+          "Public /blog/ listing includes the slug",
+          "Public /sitemap.xml includes the slug",
+          "Magnific campaign article still has exactly one followed backlink with required anchor and destination"
         ]
-      }
+      },
+      "publishedCommit": "639d390"
     }
   ]
 }
