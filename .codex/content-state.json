@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-09-17",
+  "lastUpdated": "2026-09-18",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -1323,6 +1323,83 @@
         ]
       },
       "publishedCommit": "639d390"
+    },
+    {
+      "keyword": "mejores conjuntos de lino para mujer",
+      "priority": "Media",
+      "slug": "mejores-conjuntos-de-lino-para-mujer",
+      "title": "Mejores conjuntos de lino para mujer: 10 opciones útiles",
+      "url": "https://egosuspicio.com/blog/mejores-conjuntos-de-lino-para-mujer/",
+      "language": "es",
+      "market": "Google ES / Fuerteventura",
+      "status": "published",
+      "publicationDate": "2026-09-18",
+      "publishedCommit": "36a794b",
+      "serpResearch": {
+        "date": "2026-09-18",
+        "queries": [
+          "mejores conjuntos de lino para mujer",
+          "conjuntos de lino mujer verano 2026",
+          "conjunto lino mujer cómo combinar",
+          "Google ES conjuntos de lino mujer Fuerteventura"
+        ],
+        "observations": [
+          "La SERP mezcla medios de moda, selecciones de compra, páginas de marca y guías de estilo; la intención dominante es comercial/BOFU.",
+          "Los comparables priorizan conjuntos de lino por ocasión: oficina, playa, cena, viaje y verano; varios usan formato listicle y fotos de producto.",
+          "El gap editorial es explicar criterios de probador que muchas páginas no cubren: opacidad, arruga, mezcla de fibras, estabilidad con viento, cintura y capacidad de separar las piezas.",
+          "Para diferenciar de artículos ya publicados sobre conjuntos para viajar, prendas ligeras, faldas y camisetas, el enfoque se limita a lino o mezcla con lino y compra repetible en clima canario.",
+          "No se inventaron precios, pruebas propias, reseñas ni superioridad universal; los ejemplos son tipos de conjunto, no productos concretos."
+        ],
+        "sources": [
+          "https://www.marie-claire.es/moda/conjuntos-lino-estilizan-comodos-llevar-oficina-playa-verano-2026.html",
+          "https://www.glamour.es/articulos/tendencias-lino-vestir-bien-verano-2026",
+          "https://www.hola.com/moda/20260331892038/zara-conjuntos-lino-looks-semana-santa-verano/",
+          "https://www.vanitatis.elconfidencial.com/estilo/moda/2026-04-30/zara-conjunto-lino-frescos-verano-elegantes-1qrt_4347914/",
+          "https://varelabarcelona.com/blogs/noticias/como-combinar-un-conjunto-de-lino-en-verano",
+          "https://allianceflaxlinenhemp.eu/en/flax-performance-and-properties",
+          "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C249I",
+          "https://www.visitfuerteventura.com/fuerteventura/el-clima/"
+        ]
+      },
+      "content": {
+        "format": "BOFU listicle/comparativa",
+        "targetWords": "1300-2400",
+        "actualWords": 2037,
+        "internalLinks": [
+          "https://egosuspicio.com/blog/mejores-conjuntos-mujer-viajar-canarias/",
+          "https://egosuspicio.com/blog/mejores-prendas-ligeras-para-fuerteventura/",
+          "https://egosuspicio.com/blog/mejores-faldas-frescas-para-mujer/",
+          "https://egosuspicio.com/blog/mejores-camisetas-frescas-para-mujer/",
+          "https://egosuspicio.com/categoria/conjuntos/",
+          "https://egosuspicio.com/visitanos/"
+        ],
+        "externalLinks": [
+          "https://www.marie-claire.es/moda/conjuntos-lino-estilizan-comodos-llevar-oficina-playa-verano-2026.html",
+          "https://www.glamour.es/articulos/tendencias-lino-vestir-bien-verano-2026",
+          "https://allianceflaxlinenhemp.eu/en/flax-performance-and-properties",
+          "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C249I"
+        ],
+        "featuredImage": "/assets/blog-conjuntos-lino-mujer.jpg",
+        "featuredImageAlt": "Conjuntos de lino para mujer en tonos blanco, verde salvia y arena con sandalias, bolso de rafia y pañuelo coral",
+        "youtubeEmbed": null
+      },
+      "qa": {
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "localVerification": "passed",
+        "liveVerification": "passed",
+        "verifiedAt": "2026-09-18T06:04:54Z",
+        "verifiedChecks": [
+          "Production build passed via Eleventy 3.1.6",
+          "Article has one H1, expected canonical, Open Graph image, Article schema and FAQ schema",
+          "Article card present on /blog/",
+          "Article URL present in /sitemap.xml with lastmod 2026-09-18",
+          "Featured image returns HTTP 200 image/jpeg",
+          "Public article URL returns HTTP 200 with expected H1 and canonical",
+          "Desktop and mobile public Chrome screenshots reviewed after mobile H1 fix",
+          "Magnific campaign backlink reverified before selection"
+        ]
+      }
     }
   ]
 }
