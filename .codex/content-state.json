@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-09-21T07:59:00+02:00",
+  "lastUpdated": "2026-09-21T08:02:00+02:00",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -1485,7 +1485,7 @@
       "url": "https://egosuspicio.com/blog/mejores-bolsos-para-viajar-a-canarias/",
       "language": "es",
       "market": "Google ES / Fuerteventura",
-      "status": "validated_pending_publication",
+      "status": "published",
       "publicationDate": "2026-09-21",
       "serpResearch": {
         "date": "2026-09-21",
@@ -1541,19 +1541,21 @@
         "editorialSecondPass": "passed",
         "build": "passed",
         "localVerification": "passed",
-        "liveVerification": "pending",
-        "verifiedAt": null,
+        "liveVerification": "passed",
+        "verifiedAt": "2026-09-21T06:01:20Z",
         "verifiedChecks": [
-          "Magnific campaign article reverified before routine selection: HTTP 200, expected H1/canonical and exactly one followed backlink with required anchor/destination",
-          "Current SERP and 7 accessible sources reviewed for Google ES / Fuerteventura",
-          "Article has 2139 visible words, one H1, expected canonical, Open Graph image, Article schema and FAQ schema",
-          "Blog index card and sitemap entry added",
-          "Featured image generated as original editorial image, converted to JPEG 1672x941 and copied to dist",
-          "Production build passed via Eleventy 3.1.6",
-          "git diff --check passed",
-          "Local Chrome headless desktop/mobile render requested article and image with HTTP 200; mobile panel CSS adjusted after screenshot review"
+          "Production workflow 35566589603 completed successfully and deployed to Cloudflare Pages",
+          "Public article URL returns HTTP 200",
+          "Public article has expected H1 and self-referencing canonical",
+          "Public article includes Article and FAQ schema",
+          "Featured image reference present and image returns HTTP 200 image/jpeg",
+          "Public /blog/ listing contains the article slug",
+          "Public /sitemap.xml contains the article slug with lastmod 2026-09-21",
+          "Public desktop and mobile Chrome screenshots reviewed; image and H1 loaded, mobile text readable after panel width adjustment",
+          "Magnific campaign article reverified: exactly one followed backlink with required anchor and destination"
         ]
-      }
+      },
+      "publishedCommit": "2ff9435"
     }
   ]
 }
