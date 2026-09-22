@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-09-22T08:20:00+02:00",
+  "lastUpdated": "2026-09-22T08:00:00+02:00",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -1565,9 +1565,9 @@
       "url": "https://egosuspicio.com/blog/mejores-looks-para-salir-en-fuerteventura/",
       "language": "es",
       "market": "Google ES / Fuerteventura",
-      "status": "validated_pending_push",
+      "status": "published",
       "publicationDate": "2026-09-22",
-      "publishedCommit": null,
+      "publishedCommit": "1a40179",
       "serpResearch": {
         "date": "2026-09-22",
         "queries": [
@@ -1623,8 +1623,8 @@
         "editorialSecondPass": "passed",
         "build": "passed",
         "localVerification": "passed",
-        "liveVerification": "pending",
-        "verifiedAt": null,
+        "liveVerification": "passed",
+        "verifiedAt": "2026-09-22T08:00:00+02:00",
         "verifiedChecks": [
           "Eleventy production build passed with v3.1.6",
           "One H1 and expected canonical present",
@@ -1634,7 +1634,15 @@
           "Blog listing and sitemap contain slug",
           "Internal links resolve locally",
           "Desktop local render: image loaded and no horizontal overflow",
-          "Mobile 390x844 local render: H1 and image visible, no horizontal overflow, table scroll container present"
+          "Mobile 390x844 local render: H1 and image visible, no horizontal overflow, table scroll container present",
+          "Public article URL returns HTTP 200",
+          "Public H1 matches expected title",
+          "Public canonical matches final URL",
+          "Public Article/FAQ/VideoObject schema present",
+          "Public featured image returns image/jpeg",
+          "Public /blog/ contains slug",
+          "Public /sitemap.xml contains slug with lastmod 2026-09-22",
+          "Magnific campaign article still has exactly one followed backlink with required anchor and destination"
         ]
       }
     }
