@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-09-21T08:02:00+02:00",
+  "lastUpdated": "2026-09-22T08:20:00+02:00",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -1556,6 +1556,87 @@
         ]
       },
       "publishedCommit": "2ff9435"
+    },
+    {
+      "keyword": "mejores looks para salir en Fuerteventura",
+      "priority": "Media",
+      "slug": "mejores-looks-para-salir-en-fuerteventura",
+      "title": "Mejores looks para salir en Fuerteventura: 10 ideas útiles",
+      "url": "https://egosuspicio.com/blog/mejores-looks-para-salir-en-fuerteventura/",
+      "language": "es",
+      "market": "Google ES / Fuerteventura",
+      "status": "validated_pending_push",
+      "publicationDate": "2026-09-22",
+      "publishedCommit": null,
+      "serpResearch": {
+        "date": "2026-09-22",
+        "queries": [
+          "mejores looks para salir en Fuerteventura",
+          "looks noche verano mujer 2026",
+          "salir de fiesta en Fuerteventura Corralejo",
+          "Corralejo noche bares musica en vivo",
+          "clima Fuerteventura noche viento"
+        ],
+        "observations": [
+          "La SERP no tiene un dominador local exacto para la keyword; mezcla moda de noche/verano, calzado/complementos y guias turisticas de ocio nocturno.",
+          "La intencion es BOFU/comercial con contexto local: la lectora quiere ideas concretas de compra/armario para cenas, terrazas, musica en vivo y paseos despues del atardecer.",
+          "Los comparables de moda priorizan inspiracion visual, piezas fluidas, lino, faldas midi, sandalias y accesorios; las guias locales aportan Corralejo, Puerto del Rosario, Caleta de Fuste y Morro Jable como entidades de plan.",
+          "El gap cubierto es traducir tendencias de noche de verano a Fuerteventura: viento, calzado estable, capa ligera, bolso pequeno y uso real sin inventar precios, tests o experiencia personal."
+        ],
+        "sources": [
+          "https://www.vogue.es/articulos/looks-de-oficina-verano-2026",
+          "https://www.hola.com/moda/20260805915795/tamara-falco-nieves-alvarez-espanolas-estilosas-looks-noche-verano/",
+          "https://www.hispanitas.com/blog/noches-de-verano/",
+          "https://www.barcelo.com/guia-turismo/es/espana/fuerteventura/que-ver/salir-de-fiesta-en-fuerteventura/",
+          "https://www.fuerteventuraguestexperience.com/es/g-noche-fge",
+          "https://www.visitfuerteventura.com/fuerteventura/el-clima/",
+          "https://www.aemet.es/gl/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C249I",
+          "https://www.youtube.com/watch?v=BFSoDgt5xc0"
+        ]
+      },
+      "content": {
+        "format": "BOFU listicle/comparativa",
+        "targetWords": "1300-2400",
+        "actualWords": 2236,
+        "internalLinks": [
+          "https://egosuspicio.com/blog/mejores-looks-de-verano-en-fuerteventura/",
+          "https://egosuspicio.com/blog/mejores-bolsos-para-viajar-a-canarias/",
+          "https://egosuspicio.com/blog/mejores-conjuntos-de-lino-para-mujer/",
+          "https://egosuspicio.com/categoria/complementos/",
+          "https://egosuspicio.com/blog/mejores-sandalias-para-looks-de-verano/",
+          "https://egosuspicio.com/visitanos/"
+        ],
+        "externalLinks": [
+          "https://www.vogue.es/articulos/looks-de-oficina-verano-2026",
+          "https://www.hola.com/moda/20260805915795/tamara-falco-nieves-alvarez-espanolas-estilosas-looks-noche-verano/",
+          "https://www.hispanitas.com/blog/noches-de-verano/",
+          "https://www.barcelo.com/guia-turismo/es/espana/fuerteventura/que-ver/salir-de-fiesta-en-fuerteventura/",
+          "https://www.fuerteventuraguestexperience.com/es/g-noche-fge",
+          "https://www.visitfuerteventura.com/fuerteventura/el-clima/",
+          "https://www.aemet.es/gl/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C249I"
+        ],
+        "featuredImage": "/assets/blog-looks-salir-fuerteventura.jpg",
+        "featuredImageAlt": "Tres looks para salir en Fuerteventura con vestido coral, conjunto de lino, top negro, pantalon blanco, sandalias, bolso de rafia y chal ligero",
+        "youtubeEmbed": "https://www.youtube.com/embed/BFSoDgt5xc0"
+      },
+      "qa": {
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "localVerification": "passed",
+        "liveVerification": "pending",
+        "verifiedAt": null,
+        "verifiedChecks": [
+          "Eleventy production build passed with v3.1.6",
+          "One H1 and expected canonical present",
+          "Article, FAQ, ClothingStore and VideoObject JSON-LD parse",
+          "2236 visible words within target range",
+          "Featured image JPEG 1672x941 copied to dist",
+          "Blog listing and sitemap contain slug",
+          "Internal links resolve locally",
+          "Desktop local render: image loaded and no horizontal overflow",
+          "Mobile 390x844 local render: H1 and image visible, no horizontal overflow, table scroll container present"
+        ]
+      }
     }
   ]
 }
