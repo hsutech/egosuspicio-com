@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-09-22T08:00:00+02:00",
+  "lastUpdated": "2026-09-23T09:01:00+02:00",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -1643,6 +1643,88 @@
           "Public /blog/ contains slug",
           "Public /sitemap.xml contains slug with lastmod 2026-09-22",
           "Magnific campaign article still has exactly one followed backlink with required anchor and destination"
+        ]
+      }
+    },
+    {
+      "keyword": "ropa para viento y calor en Fuerteventura",
+      "priority": "Media",
+      "slug": "ropa-para-viento-y-calor-en-fuerteventura",
+      "title": "Ropa para viento y calor en Fuerteventura: guía útil",
+      "url": "https://egosuspicio.com/blog/ropa-para-viento-y-calor-en-fuerteventura/",
+      "language": "es",
+      "market": "Google ES / Fuerteventura",
+      "status": "validated",
+      "publicationDate": "2026-09-23",
+      "serpResearch": {
+        "date": "2026-09-23",
+        "queries": [
+          "ropa para viento y calor en Fuerteventura",
+          "qué ropa llevar a Fuerteventura viento calor",
+          "Fuerteventura clima viento ropa llevar",
+          "ropa viento calor Fuerteventura cortavientos ropa ligera",
+          "pantalón palazzo verano lino algodón ligero 2026 España"
+        ],
+        "observations": [
+          "La SERP mezcla guías de maleta, clima, viento y viaje con comparables de moda de verano; no hay una guía local dominante para compra de ropa femenina enfocada a viento más calor.",
+          "La intención es informacional con salida BOFU: decidir qué prendas comprar o probar para sol, alisio, playa, ciudad, ruta suave y cenas.",
+          "Los resultados de viaje recomiendan ropa ligera, protección solar, calzado cómodo y una capa fina; las fuentes climáticas sostienen el contexto de noches frescas y alisios.",
+          "Los comparables de moda aportan prendas amplias y fluidas, lino, algodón ligero, blanco, palazzo y capas que pasan del día a la tarde.",
+          "El gap cubierto es traducir esos consejos a criterios de compra: caída, largo, peso, transparencia, bolso cerrado, sombrero sujeto y capa plegable, evitando duplicar las guías ya publicadas de maleta o prendas ligeras."
+        ],
+        "sources": [
+          "https://www.visitfuerteventura.com/fuerteventura/el-clima/",
+          "https://www.aemet.es/gl/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C249I",
+          "https://www.hvsl.es/consejos-y-guia-completa-para-viajar-a-fuerteventura/",
+          "https://canariaslovers.com/es/viento-fuerteventura/",
+          "https://www.vogue.es/articulos/compras-pantalon-palazzo-tendencia-verano-2026",
+          "https://www3.gobiernodecanarias.org/noticias/hemeroteca/wp-content/uploads/2022/07/RECOMENDACIONES-TEMPERATURAS-MAXIMAS.pdf"
+        ]
+      },
+      "content": {
+        "format": "Guía BOFU/comparativa",
+        "targetWords": "1300-2400",
+        "actualWords": 2163,
+        "internalLinks": [
+          "https://egosuspicio.com/blog/que-ropa-llevar-a-fuerteventura/",
+          "https://egosuspicio.com/blog/mejores-prendas-ligeras-para-fuerteventura/",
+          "https://egosuspicio.com/blog/mejores-camisetas-frescas-para-mujer/",
+          "https://egosuspicio.com/blog/mejores-faldas-frescas-para-mujer/",
+          "https://egosuspicio.com/blog/mejores-vestidos-frescos-para-mujer/",
+          "https://egosuspicio.com/blog/mejores-sandalias-para-looks-de-verano/",
+          "https://egosuspicio.com/blog/mejores-bolsos-para-viajar-a-canarias/",
+          "https://egosuspicio.com/visitanos/"
+        ],
+        "externalLinks": [
+          "https://www.visitfuerteventura.com/fuerteventura/el-clima/",
+          "https://www.aemet.es/gl/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C249I",
+          "https://www.hvsl.es/consejos-y-guia-completa-para-viajar-a-fuerteventura/",
+          "https://canariaslovers.com/es/viento-fuerteventura/",
+          "https://www.vogue.es/articulos/compras-pantalon-palazzo-tendencia-verano-2026",
+          "https://www3.gobiernodecanarias.org/noticias/hemeroteca/wp-content/uploads/2022/07/RECOMENDACIONES-TEMPERATURAS-MAXIMAS.pdf"
+        ],
+        "featuredImage": "/assets/blog-ropa-viento-calor-fuerteventura.jpg",
+        "featuredImageAlt": "Ropa ligera para viento y calor en Fuerteventura con camisa blanca, top, falda coral, cortavientos fino, sandalias, sombrero sujeto, pañuelo, bolso cerrado y botella reutilizable",
+        "youtubeEmbed": null
+      },
+      "qa": {
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "localVerification": "passed",
+        "liveVerification": "pending",
+        "verifiedAt": null,
+        "verifiedChecks": [
+          "Eleventy production build passed with v3.1.6",
+          "One H1 and expected canonical present in source",
+          "Article, FAQ and ClothingStore JSON-LD parse",
+          "2163 visible words within target range",
+          "Featured image JPEG 1672x941 created from original generated bitmap and copied to dist",
+          "Blog listing and sitemap contain slug",
+          "Internal links resolve locally",
+          "No video embedded because available videos did not materially improve clothing purchase intent",
+          "Local served page returns expected H1, canonical and featured image reference",
+          "Desktop Chrome screenshot 1366x768 reviewed: H1 and image loaded, no obvious overflow",
+          "Mobile Chrome screenshot 390x844 reviewed: H1, intro and image loaded with readable wrapping"
         ]
       }
     }
