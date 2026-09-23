@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-09-23T09:01:00+02:00",
+  "lastUpdated": "2026-09-23T09:04:00+02:00",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -1654,7 +1654,7 @@
       "url": "https://egosuspicio.com/blog/ropa-para-viento-y-calor-en-fuerteventura/",
       "language": "es",
       "market": "Google ES / Fuerteventura",
-      "status": "validated",
+      "status": "published",
       "publicationDate": "2026-09-23",
       "serpResearch": {
         "date": "2026-09-23",
@@ -1711,8 +1711,8 @@
         "editorialSecondPass": "passed",
         "build": "passed",
         "localVerification": "passed",
-        "liveVerification": "pending",
-        "verifiedAt": null,
+        "liveVerification": "passed",
+        "verifiedAt": "2026-09-23T09:04:00+02:00",
         "verifiedChecks": [
           "Eleventy production build passed with v3.1.6",
           "One H1 and expected canonical present in source",
@@ -1724,9 +1724,21 @@
           "No video embedded because available videos did not materially improve clothing purchase intent",
           "Local served page returns expected H1, canonical and featured image reference",
           "Desktop Chrome screenshot 1366x768 reviewed: H1 and image loaded, no obvious overflow",
-          "Mobile Chrome screenshot 390x844 reviewed: H1, intro and image loaded with readable wrapping"
+          "Mobile Chrome screenshot 390x844 reviewed: H1, intro and image loaded with readable wrapping",
+          "GitHub Actions workflow 35829410982 completed and deployed to Cloudflare Pages; known non-blocking Node/action annotations remained",
+          "Public article URL returns HTTP 200",
+          "Public H1 matches expected title",
+          "Public canonical matches final URL",
+          "Public Article and FAQ schema present",
+          "Public featured image returns HTTP 200 image/jpeg",
+          "Public /blog/ contains slug",
+          "Public /sitemap.xml contains slug with lastmod 2026-09-23",
+          "Public desktop Chrome screenshot reviewed: H1 and image loaded",
+          "Public mobile Chrome screenshot reviewed: H1 and image loaded with readable wrapping",
+          "Magnific campaign article still has exactly one followed backlink with required anchor and destination"
         ]
-      }
+      },
+      "publishedCommit": "25ccc71"
     }
   ]
 }
