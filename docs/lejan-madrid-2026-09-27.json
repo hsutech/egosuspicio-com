@@ -1,0 +1,101 @@
+{
+  "domain": "egosuspicio.com",
+  "title": "6 tiendas barefoot en Madrid para aprovechar una escapada",
+  "description": "Una ruta de compra desde Fuerteventura: seis tiendas barefoot en Madrid, qué ofrece cada una y cómo elegir un par para tu maleta y tu vestuario habitual.",
+  "author": "Egosuspicio",
+  "lang": "es",
+  "category": "Estilo y viajes",
+  "position": 3,
+  "url": "https://egosuspicio.com/blog/tiendas-barefoot-madrid-escapada/",
+  "repo": "hsutech/egosuspicio-com",
+  "sourcePath": "src/blog/tiendas-barefoot-madrid-escapada/index.html",
+  "checkedAt": "2026-09-27T12:05:15.318831+00:00",
+  "publicationState": "ready_to_deploy",
+  "intent": "Compare six physical barefoot shoe shops in Madrid with a site-specific wardrobe or information angle",
+  "sources": [
+    {
+      "url": "https://lejanbrand.com/pages/lejan-house-madrid",
+      "supports": "Lejan House: Velázquez 41; personalización con charms y cordones; ayuda con talla; lunes-sábado 10-21, domingo 12-20."
+    },
+    {
+      "url": "https://lejanbrand.com/collections/lejan-melrose-mujer/fw26",
+      "supports": "Melrose: colección de mujer; estética retro; no inferir stock local."
+    },
+    {
+      "url": "https://barefootyou.com/pages/tienda-barefoot-en-madrid",
+      "supports": "Dos locales: Fúcar 12 y Alberto Aguilera 60; lunes-sábado 11-20; asesoramiento; multimarca."
+    },
+    {
+      "url": "https://5dedos.es/",
+      "supports": "Multimarca; categorías lifestyle, training, outdoor; catálogo Xero, Merrell, Vivobarefoot y Altra. No presentar Altra amortiguada como minimalista estricta."
+    },
+    {
+      "url": "https://5dedos.es/content/6-tiendas",
+      "supports": "Madrid: Ribera de Curtidores 21."
+    },
+    {
+      "url": "https://5dedos.es/content/16-preguntas-frecuentes",
+      "supports": "Stock por local se consulta; compra física admite cambio/vale según condiciones; no equiparar a devolución online."
+    },
+    {
+      "url": "https://www.zapaoso.com/",
+      "supports": "Calzado hombre y mujer, barefoot y convencional; categorías sandalias, zapatos, zuecos y deportivas."
+    },
+    {
+      "url": "https://www.zapaoso.com/content/2-aviso-legal",
+      "supports": "Bravo Murillo 12, local 1, Madrid."
+    },
+    {
+      "url": "https://www.piesdehacha.com/",
+      "supports": "Cáceres 15 local izquierdo; infantil y adulto; catálogo por talla hasta 45; Froddo, Blanditos, Coqueflex, Igor; accesorios."
+    },
+    {
+      "url": "https://todoestaenmadrid.com/es/shops/pies-de-hacha",
+      "supports": "Registro municipal: Arganzuela-Delicias, ropa infantil y accesorios; calzado adultos y niños."
+    },
+    {
+      "url": "https://happiebarefoot.com/shop/",
+      "supports": "Plaza de Arteijo 13; infantil y adulto; bailarinas, botas, deportivas, sandalias, accesorios; cierre mediodía y domingo."
+    },
+    {
+      "url": "https://happiebarefoot.com/tienda/?filter_tallas=41",
+      "supports": "Catálogo Be Lenka, Barebarics, Mustang, Muris; no confundir catálogo con disponibilidad física."
+    },
+    {
+      "url": "https://leopotamo.com/content/7-sobre-leopotamo",
+      "supports": "Divino Pastor 27; Malasaña; infantil y accesorios, estética combinable; horario partido."
+    },
+    {
+      "url": "https://leopotamo.com/",
+      "supports": "Catálogo infantil y adulto; Feroz, Blanditos, Igor, Lejan Kids. Usar Leopótamo solo en variante familiar."
+    },
+    {
+      "url": "https://es.trustpilot.com/review/lejanbrand.com?page=4",
+      "supports": "Opiniones sobre marca: diseño y trato positivos; una reseña relata talla intermedia difícil. No convertir puntuación global en nota del local. Reseña antigua menciona Serrano: dirección vigente se toma de fuente oficial Velázquez."
+    },
+    {
+      "url": "https://www.cylex.es/madrid/leop%C3%B3tamo-12986621.html",
+      "supports": "Agregador de reseñas; lectura mostró 4.7/5 y212, no usar cifras como actuales por fechas divergentes."
+    },
+    {
+      "url": "https://www.timeout.es/madrid/es/tiendas/zapaterias-de-madrid-donde-encontrar-calzado-barefoot",
+      "supports": "Contexto editorial actualizado septiembre2026; respalda oferta multimarca y localizaciones. No copiar estructura/prosa."
+    }
+  ],
+  "editorialDecisions": {
+    "publicDisclosure": "Omitted at the explicit instruction of the user in this task",
+    "publicMethodology": "Omitted at the explicit instruction of the user",
+    "commercialOutboundLinks": "None",
+    "reviews": "Qualitative brand observations only; no fabricated ratings or claims of store visits",
+    "image": "Text editorial header; no generic selection-guide illustration"
+  },
+  "priorMentionAudit": {
+    "domain": "egosuspicio.com",
+    "repository": "hsutech/egosuspicio-com",
+    "checkedAt": "2026-09-27T12:00:26.708386+00:00",
+    "beforeCommit": "7c73ff05787aa00196972bed504e3fe84ec1f2bd",
+    "shallow": "false",
+    "historicalMatches": []
+  },
+  "wordCount": 1335
+}
