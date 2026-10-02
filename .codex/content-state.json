@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-09-23T09:04:00+02:00",
+  "lastUpdated": "2026-10-02T12:13:00+02:00",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -1739,6 +1739,77 @@
         ]
       },
       "publishedCommit": "25ccc71"
+    },
+    {
+      "keyword": "vestido largo vs vestido corto para clima cálido",
+      "priority": "Media",
+      "slug": "vestido-largo-vs-vestido-corto-clima-calido",
+      "title": "Vestido largo vs vestido corto para clima cálido: guía para elegir",
+      "url": "https://egosuspicio.com/blog/vestido-largo-vs-vestido-corto-clima-calido/",
+      "language": "es",
+      "market": "Google ES / Fuerteventura",
+      "status": "published",
+      "publicationDate": "2026-10-02",
+      "publishedCommit": "31f41b4",
+      "serpResearch": {
+        "date": "2026-10-02",
+        "queries": [
+          "vestido largo vs vestido corto clima cálido cuál elegir",
+          "vestido largo o corto para calor verano boda clima calido",
+          "qué vestido llevar clima cálido largo corto mujer verano",
+          "AEMET Fuerteventura Aeropuerto valores climatológicos temperatura viento"
+        ],
+        "observations": [
+          "La SERP mezcla intención de invitada de boda, verano/calor y decisión práctica entre largos; los mejores comparables estructuran por evento, horario, venue, tejido y formalidad.",
+          "Pronovias y Wedded cubren largo, midi y corto para bodas de verano; ambos refuerzan que tejido, suelo, horario y dress code pesan más que la longitud aislada.",
+          "Las fuentes climáticas de AEMET y Visit Fuerteventura justifican adaptar la comparativa al contexto canario: calor suave, sol, viento, arena, cenas al aire libre y cambios de plan.",
+          "El gap cubierto es una guía BOFU de compra y prueba en tienda para decidir largo, corto o midi sin repetir los artículos ya publicados de vestidos frescos o vestidos para clima canario."
+        ],
+        "sources": [
+          "https://www.pronovias.com/es/editorial/como-vestir-boda-verano-invitadas",
+          "https://wedded.app/blog/spain/guests/vestido-corto-largo-invitadas",
+          "https://auka.mx/blogs/guides/vestido-largo-o-corto",
+          "https://www.aemet.es/gl/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?k=coo&l=C249I",
+          "https://www.visitfuerteventura.com/",
+          "https://www3.gobiernodecanarias.org/noticias/hemeroteca/wp-content/uploads/2022/07/RECOMENDACIONES-TEMPERATURAS-MAXIMAS.pdf"
+        ]
+      },
+      "content": {
+        "format": "BOFU comparativa",
+        "targetWords": "1300-2400",
+        "actualWords": 2009,
+        "internalLinks": [
+          "https://egosuspicio.com/blog/mejores-vestidos-frescos-para-mujer/",
+          "https://egosuspicio.com/blog/mejores-vestidos-para-clima-canario/",
+          "https://egosuspicio.com/blog/mejores-prendas-ligeras-para-fuerteventura/",
+          "https://egosuspicio.com/visitanos/"
+        ],
+        "externalLinks": [
+          "https://www.pronovias.com/es/editorial/como-vestir-boda-verano-invitadas",
+          "https://wedded.app/blog/spain/guests/vestido-corto-largo-invitadas",
+          "https://www.aemet.es/gl/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?k=coo&l=C249I",
+          "https://www.visitfuerteventura.com/"
+        ],
+        "featuredImage": "/assets/blog-vestido-largo-vs-corto-clima-calido.jpg",
+        "featuredImageAlt": "Vestido largo coral y vestido corto blanco preparados con sandalias, bolso de rafia y accesorios para clima cálido",
+        "youtubeEmbed": null
+      },
+      "qa": {
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "localVerification": "passed",
+        "liveVerification": "passed",
+        "verifiedAt": "2026-10-02T10:13:00Z",
+        "verifiedChecks": [
+          "Eleventy production build passed with v3.1.6",
+          "One H1, canonical, Article schema, FAQ schema and Open Graph image verified",
+          "Featured image JPEG 1672x941 copied to dist and public image returned 200 image/jpeg",
+          "Article card present on /blog/ and URL present in /sitemap.xml",
+          "Public article returned HTTP 200 with expected H1 and canonical",
+          "Public desktop and mobile Chrome screenshots reviewed",
+          "Magnific campaign backlink reverified: exactly one followed anchor to required destination"
+        ]
+      }
     }
   ]
 }
