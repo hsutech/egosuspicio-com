@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-10-02T12:13:00+02:00",
+  "lastUpdated": "2026-10-04T15:18:00+02:00",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -1808,6 +1808,88 @@
           "Public article returned HTTP 200 with expected H1 and canonical",
           "Public desktop and mobile Chrome screenshots reviewed",
           "Magnific campaign backlink reverified: exactly one followed anchor to required destination"
+        ]
+      }
+    },
+    {
+      "keyword": "mejores prendas para una maleta a Fuerteventura",
+      "priority": "Media",
+      "slug": "mejores-prendas-para-una-maleta-a-fuerteventura",
+      "title": "Mejores prendas para una maleta a Fuerteventura: 10 piezas útiles",
+      "url": "https://egosuspicio.com/blog/mejores-prendas-para-una-maleta-a-fuerteventura/",
+      "language": "es",
+      "market": "Google ES / Fuerteventura",
+      "status": "published",
+      "publicationDate": "2026-10-04",
+      "publishedCommit": "344e615",
+      "serpResearch": {
+        "date": "2026-10-04",
+        "queries": [
+          "mejores prendas para una maleta a Fuerteventura",
+          "qué ropa llevar en la maleta a Fuerteventura",
+          "ropa Fuerteventura viento calor",
+          "Fuerteventura maleta ropa viento calor"
+        ],
+        "observations": [
+          "La SERP actual prioriza guías de maleta, clima y viaje; no hay un ranking dominante de prendas de mujer para equipaje limitado.",
+          "La intención es BOFU/informacional con salida comercial: decidir qué prendas concretas merecen espacio en una maleta corta para calor, viento, playa, ciudad y cena.",
+          "Los comparables suelen recomendar ropa ligera, bañador, protección solar, calzado cómodo y una capa para viento o noche, pero rara vez comparan prendas por combinabilidad, estabilidad y repetición.",
+          "El artículo evita canibalización con las guías de qué ropa llevar, prendas ligeras y ropa para viento/calor al centrarse en una maleta cápsula de 10 piezas."
+        ],
+        "sources": [
+          "https://www.visitfuerteventura.com/fuerteventura/el-clima/",
+          "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C249I",
+          "https://www.hvsl.es/consejos-y-guia-completa-para-viajar-a-fuerteventura/",
+          "https://destinoymaleta.com/europa/espana/islas-canarias/viajar-fuerteventura/",
+          "https://www.spain.info/es/region/fuerteventura-isla/",
+          "https://www.aena.es/es/pasajeros/equipajes-controles/equipaje-mano.html",
+          "https://www.vogue.es/articulos/compras-pantalon-palazzo-tendencia-verano-2026"
+        ]
+      },
+      "content": {
+        "format": "BOFU listicle / guía de maleta cápsula",
+        "targetWords": "1300-2400",
+        "actualWords": 2181,
+        "internalLinks": [
+          "https://egosuspicio.com/blog/que-ropa-llevar-a-fuerteventura/",
+          "https://egosuspicio.com/blog/mejores-prendas-ligeras-para-fuerteventura/",
+          "https://egosuspicio.com/blog/mejores-faldas-frescas-para-mujer/",
+          "https://egosuspicio.com/blog/ropa-para-viento-y-calor-en-fuerteventura/",
+          "https://egosuspicio.com/categoria/complementos/",
+          "https://egosuspicio.com/visitanos/"
+        ],
+        "externalLinks": [
+          "https://www.visitfuerteventura.com/fuerteventura/el-clima/",
+          "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C249I",
+          "https://www.hvsl.es/consejos-y-guia-completa-para-viajar-a-fuerteventura/",
+          "https://destinoymaleta.com/europa/espana/islas-canarias/viajar-fuerteventura/",
+          "https://www.spain.info/es/region/fuerteventura-isla/",
+          "https://www.aena.es/es/pasajeros/equipajes-controles/equipaje-mano.html",
+          "https://www.vogue.es/articulos/compras-pantalon-palazzo-tendencia-verano-2026"
+        ],
+        "featuredImage": "/assets/blog-prendas-maleta-fuerteventura.jpg",
+        "featuredImageAlt": "Maleta cápsula para Fuerteventura con camisa blanca, camiseta verde, pantalón fluido, falda coral, vestido ligero, cortaviento, sandalias, zapatillas y pañuelo",
+        "youtubeEmbed": null
+      },
+      "qa": {
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "localVerification": "passed",
+        "liveVerification": "passed",
+        "verifiedAt": "2026-10-04T13:18:00Z",
+        "verifiedChecks": [
+          "Magnific campaign article reverified before routine selection",
+          "Production build passed via Eleventy 3.1.6",
+          "Article has one H1, canonical, Article schema, FAQ schema, Open Graph image and featured image reference",
+          "Internal links resolve in dist",
+          "Local desktop and mobile browser render passed with no console errors or horizontal overflow",
+          "GitHub Actions deployment completed successfully",
+          "HTTP 200 on final custom-domain article URL",
+          "Expected H1 and canonical present on custom domain",
+          "Featured image returns image/jpeg and loads in browser",
+          "Article card present on /blog/ custom domain",
+          "Article URL present in /sitemap.xml custom domain",
+          "Public desktop and mobile render passed with no console errors or horizontal overflow"
         ]
       }
     }
