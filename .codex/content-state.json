@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-10-04T15:18:00+02:00",
+  "lastUpdated": "2026-10-05T12:08:00+02:00",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -1890,6 +1890,88 @@
           "Article card present on /blog/ custom domain",
           "Article URL present in /sitemap.xml custom domain",
           "Public desktop and mobile render passed with no console errors or horizontal overflow"
+        ]
+      }
+    },
+    {
+      "keyword": "mejores regalos de moda en Puerto del Rosario",
+      "priority": "Baja",
+      "slug": "mejores-regalos-de-moda-en-puerto-del-rosario",
+      "title": "Mejores regalos de moda en Puerto del Rosario: 10 ideas útiles",
+      "url": "https://egosuspicio.com/blog/mejores-regalos-de-moda-en-puerto-del-rosario/",
+      "language": "es",
+      "market": "Google ES / Fuerteventura",
+      "status": "published",
+      "publicationDate": "2026-10-05",
+      "publishedCommit": "4d1af11",
+      "serpResearch": {
+        "date": "2026-10-05",
+        "queries": [
+          "mejores regalos de moda en Puerto del Rosario",
+          "regalos de moda Puerto del Rosario Fuerteventura",
+          "Puerto del Rosario tiendas regalos moda complementos mujer",
+          "regalos originales mujer moda accesorios 2026"
+        ],
+        "observations": [
+          "La SERP exacta no tiene un dominador editorial; mezcla directorios locales, centros comerciales, comercios concretos, regalos personalizados y artículos editoriales de regalos/accesorios.",
+          "La intención es BOFU local: decidir qué tipo de regalo de moda comprar y dónde buscarlo en Puerto del Rosario sin depender solo de fichas o escaparates.",
+          "Los resultados locales aportan entidades y categorías: Las Rotondas, Asociación de Empresarios, comercios de moda/calzado/joyería/perfumería/regalos y fichas de tiendas especializadas.",
+          "El artículo evita canibalización con tiendas de ropa, tiendas de complementos y guías de maleta al centrarse en el regalo: riesgo de talla, ocasión, cambio, utilidad y uso real."
+        ],
+        "sources": [
+          "https://www.tiendaslaspalmas.com/shopping/centro-comercial-las-rotondas",
+          "https://asociacionpuertodelrosario.es/comercio",
+          "https://lasrotondascentrocomercial.com/es/tiendas/",
+          "https://macaronesiafuerteventura.com/compras-fuerteventura/",
+          "https://joyeriadaly.es/servicios",
+          "https://www.aemet.es/es/eltiempo/prediccion/municipios/puerto-del-rosario-id35017",
+          "https://www.vogue.es/compras/articulos/regalos-originales-mujer",
+          "https://www.vogue.es/articulos/compras-tendencias-panuelo-cabeza-cintura"
+        ]
+      },
+      "content": {
+        "format": "BOFU listicle / guía de regalos",
+        "targetWords": "1300-2400",
+        "actualWords": 2369,
+        "internalLinks": [
+          "https://egosuspicio.com/blog/mejores-tiendas-de-ropa-en-puerto-del-rosario/",
+          "https://egosuspicio.com/blog/mejores-tiendas-de-complementos-en-fuerteventura/",
+          "https://egosuspicio.com/visitanos/",
+          "https://egosuspicio.com/blog/mejores-prendas-para-una-maleta-a-fuerteventura/",
+          "https://egosuspicio.com/blog/mejores-sandalias-para-looks-de-verano/",
+          "https://egosuspicio.com/shop/"
+        ],
+        "externalLinks": [
+          "https://lasrotondascentrocomercial.com/es/tiendas/",
+          "https://asociacionpuertodelrosario.es/comercio",
+          "https://www.aemet.es/es/eltiempo/prediccion/municipios/puerto-del-rosario-id35017",
+          "https://www.vogue.es/compras/articulos/regalos-originales-mujer"
+        ],
+        "featuredImage": "/assets/blog-regalos-moda-puerto-del-rosario.jpg",
+        "featuredImageAlt": "Regalos de moda preparados en una mesa de boutique con bolso de rafia, pañuelos, pendientes, gafas, vestido verde y paquete envuelto",
+        "imagePrompt": "Original editorial still life for an article about fashion gifts in Puerto del Rosario: wrapped boutique gift, woven handbag, scarf, earrings, sunglasses and folded linen dress in warm Canary Island daylight; no logos, no readable text, no people.",
+        "youtubeEmbed": null
+      },
+      "qa": {
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "localVerification": "passed",
+        "liveVerification": "passed",
+        "verifiedAt": "2026-10-05T10:08:00Z",
+        "verifiedChecks": [
+          "Magnific campaign article reverified before routine selection and after publication: exact followed backlink remains present",
+          "Production build passed via Eleventy 3.1.6",
+          "Article has one H1, expected canonical, Article schema, FAQ schema, Open Graph image and featured image reference",
+          "Visible article length is 2369 words and external links are limited to four cited sources",
+          "Article card present in blog index and article URL present in sitemap",
+          "Local desktop and mobile browser render passed with image loaded, no console errors and no horizontal overflow",
+          "GitHub Actions deployment 37294215468 completed and deploy step succeeded",
+          "HTTP 200 on final custom-domain article URL",
+          "Expected H1 and canonical present on custom domain",
+          "Featured image returns image/jpeg and loads in browser",
+          "Article card present on /blog/ custom domain",
+          "Article URL present in /sitemap.xml custom domain",
+          "Public desktop and mobile browser render passed with no console errors or horizontal overflow"
         ]
       }
     }
