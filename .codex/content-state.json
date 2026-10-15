@@ -1980,7 +1980,7 @@
       "slug": "donde-comprar-vestidos-en-fuerteventura",
       "title": "Dónde comprar vestidos en Fuerteventura: guía por zonas y ocasión",
       "priority": "Baja",
-      "status": "validated",
+      "status": "published",
       "url": "https://egosuspicio.com/blog/donde-comprar-vestidos-en-fuerteventura/",
       "preparedAt": "2026-10-15",
       "research": {
@@ -2063,8 +2063,58 @@
         "build": "passed Eleventy 3.1.6",
         "lint": "No lint/test scripts configured; git diff --check passed",
         "localVerification": "One H1/canonical, Article and FAQ JSON-LD, all internal targets exist, article/image/blog/sitemap in dist. Desktop/mobile browser rendering reviewed, image loaded, no document overflow; mobile viewport request 390x844, browser reported 487 CSS px.",
-        "liveVerification": "pending"
-      }
+        "liveVerification": "passed",
+        "verifiedAt": "2026-10-15T16:42:23.255660+00:00",
+        "publicChecks": {
+          "https://egosuspicio.com/blog/donde-comprar-vestidos-en-fuerteventura/": {
+            "status": 200,
+            "type": "text/html; charset=utf-8"
+          },
+          "https://egosuspicio.com/blog/": {
+            "status": 200,
+            "type": "text/html; charset=utf-8"
+          },
+          "https://egosuspicio.com/sitemap.xml": {
+            "status": 200,
+            "type": "application/xml"
+          },
+          "https://egosuspicio.com/assets/blog-comprar-vestidos-fuerteventura.jpg": {
+            "status": 200,
+            "type": "image/jpeg"
+          },
+          "https://egosuspicio.com/blog/crear-lookbook-conceptual-moda-generador-imagenes-ia/": {
+            "status": 200,
+            "type": "text/html; charset=utf-8"
+          },
+          "checks": {
+            "h1": [
+              "Dónde comprar vestidos en Fuerteventura: guía por zonas y ocasión"
+            ],
+            "canonical": [
+              "<link rel=\"canonical\" href=\"https://egosuspicio.com/blog/donde-comprar-vestidos-en-fuerteventura/\">"
+            ],
+            "imageReference": true,
+            "blogListing": true,
+            "sitemap": true,
+            "schemas": [
+              "Article",
+              "FAQPage"
+            ]
+          },
+          "campaignLinks": [
+            [
+              {
+                "href": "https://www.magnific.com/ai/image-generator"
+              },
+              "herramientas de imagen de Magnific"
+            ]
+          ]
+        },
+        "publicRender": "Mobile and desktop screenshots reviewed: legible H1 and image loaded; mobile no horizontal overflow. Desktop screenshot succeeded on one retry after approval review timeout.",
+        "deployment": "https://github.com/hsutech/egosuspicio-com/actions/runs/38737130108 — success"
+      },
+      "publishedAt": "2026-10-15",
+      "publishedCommit": "a0dc96a69f580afbdc918bc5bb75b6581c251f21"
     }
   ]
 }
