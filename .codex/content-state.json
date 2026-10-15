@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-10-05T12:08:00+02:00",
+  "lastUpdated": "2026-10-15",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -1973,6 +1973,97 @@
           "Article URL present in /sitemap.xml custom domain",
           "Public desktop and mobile browser render passed with no console errors or horizontal overflow"
         ]
+      }
+    },
+    {
+      "keyword": "dónde comprar vestidos en Fuerteventura",
+      "slug": "donde-comprar-vestidos-en-fuerteventura",
+      "title": "Dónde comprar vestidos en Fuerteventura: guía por zonas y ocasión",
+      "priority": "Baja",
+      "status": "validated",
+      "url": "https://egosuspicio.com/blog/donde-comprar-vestidos-en-fuerteventura/",
+      "preparedAt": "2026-10-15",
+      "research": {
+        "checkedAt": "2026-10-15",
+        "market": "España / Fuerteventura",
+        "language": "es",
+        "queries": [
+          "dónde comprar vestidos Fuerteventura tiendas vestidos mujer Puerto Rosario Corralejo",
+          "vestidos Fuerteventura Magik Dress tienda oficial"
+        ],
+        "method": "Current web search and full-page fetches; exact Google ES rank order and geolocation were not available. No ranking positions claimed.",
+        "serpObservations": "Local store pages and directories dominate. Intent is transactional: store location, range, size and contact. Most relevant merchant pages have a few hundred useful words plus navigation or catalog blocks; no meaningful editorial mean can be calculated from these unlike page types. 1800-2000 words chosen to cover distinct local purchase decisions, rather than padding to competitor length.",
+        "patterns": [
+          "Merchant authorship; no independent testing or review evidence",
+          "Headings by product/service, store locator and contact; generally no editorial table of contents",
+          "Product/interior images and location links; no materially useful YouTube video found",
+          "Entities: Puerto del Rosario, Corralejo, Jandía, Antigua, Las Rotondas, NINA, De Moda, Salina, Komodo"
+        ],
+        "gap": "Connect store type and location to occasion, sizing and return-trip constraints, rather than repeat broad boutique ranking.",
+        "sources": [
+          {
+            "url": "https://www.ninaboutiqueftv.es/",
+            "kind": "official",
+            "supports": "Event categories and Secundino Alonso 44 address; conflicting hours and placeholder content elsewhere excluded"
+          },
+          {
+            "url": "https://demodafuerteventura.es/",
+            "kind": "official",
+            "supports": "Salamanca 5 location; merchant advertises sizing to 60, not stock guarantee"
+          },
+          {
+            "url": "https://salinamoda.com/",
+            "kind": "official",
+            "supports": "Vacation positioning and Corralejo/Jandía/Antigua locations"
+          },
+          {
+            "url": "https://www.komodo-shop.com/",
+            "kind": "official",
+            "supports": "Anzuelo 1 address, clothing/accessory mix; no claim of current dress stock"
+          },
+          {
+            "url": "https://www.lasrotondascentrocomercial.com/es/tienda/84",
+            "kind": "official",
+            "supports": "Store directory with fashion category"
+          },
+          {
+            "url": "https://coquetty.es/",
+            "kind": "merchant",
+            "fetchStatus": "timeout; not used as evidence"
+          },
+          {
+            "url": "https://www.asociacionpuertodelrosario.es/blessed-shop-by-isa-reyes",
+            "kind": "trade association",
+            "fetchStatus": "search result available but full-page fetch failed; excluded from article"
+          }
+        ],
+        "firsthandEvidence": false,
+        "claimsAvoided": [
+          "prices",
+          "ratings",
+          "stock guarantees",
+          "personal visits",
+          "universal superiority"
+        ],
+        "cannibalization": "Specific dress shopping route by location, event and size; broad clothing/boutique and dress-selection guides linked rather than duplicated."
+      },
+      "content": {
+        "actualWords": 1864,
+        "format": "Local commercial buying guide",
+        "featuredImage": "/assets/blog-comprar-vestidos-fuerteventura.jpg",
+        "imageTool": "built-in imagegen",
+        "imagePrompt": "Painterly gouache/paper collage, three dresses on rack, fitting curtain and mirror, Canary landscape; no people, branding or text; conceptual not real stock.",
+        "imageDisclosure": "Visible conceptual AI illustration caption",
+        "youtubeEmbed": null,
+        "internalEditorialLinks": 4,
+        "externalEditorialLinks": 4
+      },
+      "qa": {
+        "editorialSecondPass": "passed: claims checked against primary sources, contradictory hours excluded, headings corrected, no fabricated reviews or experience",
+        "build": "passed Eleventy 3.1.6",
+        "lint": "No lint/test scripts configured; git diff --check passed",
+        "localVerification": "One H1/canonical, Article and FAQ JSON-LD, all internal targets exist, article/image/blog/sitemap in dist. Desktop/mobile browser rendering reviewed, image loaded, no document overflow; mobile viewport request 390x844, browser reported 487 CSS px.",
+        "liveVerification": "pending"
       }
     }
   ]
