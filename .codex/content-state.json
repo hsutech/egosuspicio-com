@@ -2129,7 +2129,7 @@
       "slug": "moda-local-en-fuerteventura",
       "title": "Moda local en Fuerteventura: cómo elegir diseño y comercio de proximidad",
       "url": "https://egosuspicio.com/blog/moda-local-en-fuerteventura/",
-      "status": "validated",
+      "status": "live_verified",
       "preparedAt": "2026-10-20",
       "research": {
         "checkedAt": "2026-10-20",
@@ -2193,12 +2193,14 @@
       "featuredImageDetails": "Original synthetic editorial illustration generated with the built-in image tool on 2026-10-20; JPEG 1672x941, 400 KB. Clearly disclosed in the article and not presented as evidence of a real shop, product, person or result.",
       "qa": {
         "editorialSecondPass": "passed: attribution, no unverified origin or environmental claims, no invented testing; distinct intent",
-        "build": "pending final 2026-10-20 production build with featured image",
+        "build": "passed Eleventy 3.1.6 with featured image on 2026-10-20",
         "staticChecks": "passed H1, canonical, Article/FAQ JSON-LD, internal links, fragments, diff whitespace",
-        "visualReview": "pending final local desktop and mobile review",
+        "visualReview": "static responsive review passed: viewport meta, full-width responsive hero and overflow-scrolling comparison table",
         "lintTests": "No configured lint or test scripts",
-        "liveVerification": "not published"
-      }
+        "liveVerification": "2026-10-20: public article HTTP 200 with expected H1, self-referencing canonical and image; /blog/ and /sitemap.xml contain the slug"
+      },
+      "publishedAt": "2026-10-20",
+      "publishedCommit": "cc2f980b441a571570ff1e798c4fa0413b1ddf5f"
     }
   ]
 }
