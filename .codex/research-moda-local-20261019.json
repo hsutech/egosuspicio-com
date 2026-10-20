@@ -1,0 +1,58 @@
+{
+  "checkedAt": "2026-10-19",
+  "keyword": "moda local en Fuerteventura",
+  "queries": [
+    "moda local Fuerteventura diseñadores marcas ropa",
+    "dónde comprar ropa mujer Puerto del Rosario",
+    "site.cabildofuer.es moda escuela Fuerteventura"
+  ],
+  "method": "Búsqueda web actual en español y lectura de seis fuentes accesibles. No se dispone de posiciones exactas ni geolocalización Google ES/Fuerteventura; no se inventan rankings. Dos fuentes adicionales no accesibles se excluyeron.",
+  "sources": [
+    {
+      "url": "https://salinamoda.com/",
+      "observations": "Marca: historia de inspiración vacacional, categorías y tiendas; unos cientos de palabras, imágenes, sin TOC ni firma individual."
+    },
+    {
+      "url": "https://demodafuerteventura.es/",
+      "observations": "Comercio: servicios, tallas, contacto; unos cientos de palabras, H2/H3 y fotos, sin TOC; autoría empresarial."
+    },
+    {
+      "url": "https://asociacionpuertodelrosario.es/moda",
+      "observations": "Directorio de asociación: fichas y categorías, mucho menú, poco texto editorial; sin comparativa de origen."
+    },
+    {
+      "url": "https://escuelademodadefuerteventura.com/cursos/",
+      "observations": "Fuente primaria de formación: programa detallado de diseño, patronaje y confección; varios cientos de palabras, H2, fotografías, sin TOC."
+    },
+    {
+      "url": "https://www.fuerteventurafashionweek.com/EsModa2025/",
+      "observations": "Organizador: ficha breve de EsModa 2025, aproximadamente 100 palabras útiles, imagen y pasarelas, sin FAQ."
+    },
+    {
+      "url": "https://www.diariodefuerteventura.com/noticia/alta-costura-sostenible-una-nueva-industria-para-fuerteventura",
+      "observations": "Reportaje de María José Lahora de 16/09/2025: aproximadamente 1000 palabras, fotografías acreditadas y entrevistas, sin TOC; contexto histórico, no inventario actual."
+    }
+  ],
+  "intent": "Comercial e informacional: identificar qué significa local antes de elegir una compra.",
+  "gap": "Distinguir punto de venta, diseño, confección y origen del tejido; convertir la investigación en preguntas para comprar.",
+  "lengthDecision": "1800-2100 palabras para cubrir decisiones; resultados heterogéneos (directorio, tienda, formación y noticia) impiden una media editorial comparable.",
+  "cannibalization": "Omitir dónde comprar ropa de mujer en Puerto del Rosario: ya resuelta por mejores tiendas de ropa en Puerto del Rosario. Diferenciar moda local de la guía climática moda femenina en Fuerteventura por trazabilidad y creación.",
+  "claims": {
+    "verified": [
+      "Salina declara inspiración vacacional y lista tiendas en la isla.",
+      "Escuela ofrece diseño, patronaje y confección en Corralejo.",
+      "FFW documenta participación de EsModa en 2025.",
+      "Asociación mantiene directorio de moda."
+    ],
+    "editorial": [
+      "Matriz de compra y preguntas de trazabilidad; no auditoría ni ranking de calidad."
+    ],
+    "firsthand": []
+  },
+  "excluded": [
+    "Precios y existencias",
+    "Certificaciones o sostenibilidad deducidas por proximidad",
+    "Calendario 2026 de FFW: referencias distintas, no anunciar fecha",
+    "Vídeo: no se encontró uno que aportase comprobación de origen; no incluir por relleno"
+  ]
+}
