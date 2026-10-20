@@ -2129,10 +2129,10 @@
       "slug": "moda-local-en-fuerteventura",
       "title": "Moda local en Fuerteventura: cómo elegir diseño y comercio de proximidad",
       "url": "https://egosuspicio.com/blog/moda-local-en-fuerteventura/",
-      "status": "drafted_blocked_image",
-      "preparedAt": "2026-10-19",
+      "status": "validated",
+      "preparedAt": "2026-10-20",
       "research": {
-        "checkedAt": "2026-10-19",
+        "checkedAt": "2026-10-20",
         "keyword": "moda local en Fuerteventura",
         "queries": [
           "moda local Fuerteventura diseñadores marcas ropa",
@@ -2190,12 +2190,12 @@
         ]
       },
       "featuredImage": "/assets/blog-moda-local-fuerteventura.jpg",
-      "blocker": "Built-in imagegen failed twice: connection failed, then network error at image generation endpoint. Mandatory original featured image absent. No push or deployment attempted.",
+      "featuredImageDetails": "Original synthetic editorial illustration generated with the built-in image tool on 2026-10-20; JPEG 1672x941, 400 KB. Clearly disclosed in the article and not presented as evidence of a real shop, product, person or result.",
       "qa": {
         "editorialSecondPass": "passed: attribution, no unverified origin or environmental claims, no invented testing; distinct intent",
-        "build": "passed Eleventy 3.1.6, but featured image missing",
+        "build": "pending final 2026-10-20 production build with featured image",
         "staticChecks": "passed H1, canonical, Article/FAQ JSON-LD, internal links, fragments, diff whitespace",
-        "visualReview": "not performed; image generation blocked",
+        "visualReview": "pending final local desktop and mobile review",
         "lintTests": "No configured lint or test scripts",
         "liveVerification": "not published"
       }
