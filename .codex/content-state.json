@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-10-20T01:10:07.315633+00:00",
+  "lastUpdated": "2026-10-25",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -2201,6 +2201,102 @@
       },
       "publishedAt": "2026-10-20",
       "publishedCommit": "cc2f980b441a571570ff1e798c4fa0413b1ddf5f"
+    },
+    {
+      "keyword": "mejores looks casual chic para mujer",
+      "priority": "Baja",
+      "title": "Mejores looks casual chic para mujer: 7 fórmulas para elegir",
+      "slug": "mejores-looks-casual-chic-para-mujer",
+      "url": "https://egosuspicio.com/blog/mejores-looks-casual-chic-para-mujer/",
+      "status": "validated",
+      "preparedAt": "2026-10-25",
+      "research": {
+        "keyword": "mejores looks casual chic para mujer",
+        "checkedAt": "2026-10-25",
+        "market": "España / Fuerteventura",
+        "method": "Búsqueda web actual en español y lectura de cinco comparables accesibles. No se dispone de posiciones exactas ni geolocalización garantizada de Google ES; no se atribuyen rankings.",
+        "queries": [
+          "mejores looks casual chic mujer cómo vestir casual chic",
+          "looks casual chic mujer vaqueros blazer bailarinas España"
+        ],
+        "sources": [
+          {
+            "url": "https://www.primark.com/es-es/a/inspiracion/estilo-y-outfits/como-vestir-de-forma-elegante-pero-informal",
+            "observations": "Guía comercial firmada por Janvi Thanki; lectura indicada de 6 minutos, aproximadamente 900-1300 palabras editoriales; preguntas como H2, categorías H3, imágenes de productos, sin TOC visible. Define smart casual, vaqueros, zapatillas y básicos. Fuente primaria de sus propias propuestas de estilo."
+          },
+          {
+            "url": "https://www.vogue.es/moda/galerias/tendencias-pantalones-vaqueros-inspiracion-looks-entretiempo",
+            "observations": "Galería firmada por Mayte Salido, 7 combinaciones y 27 diapositivas; unos cientos de palabras explicativas más fichas. Fotografía acreditada, bloques por combinación, sin TOC. Contexto de entretiempo y denim; precios históricos excluidos."
+          },
+          {
+            "url": "https://www.larazon.es/tendencias-futuro/moda/detalle-look-paula-echevarria-hace-conjunto-basico-se-vea-distinto_2026032569c3b1fb01546271afabfe48.html",
+            "observations": "Noticia de estilo de Patricia Rodriguez Rodao, 25/03/2026; unas 400-600 palabras, H2 por detalle/calzado, fotos y créditos, sin TOC; inspiración de celebridad y shopping. No se trasladan afirmaciones de comodidad ni existencias."
+          },
+          {
+            "url": "https://www.whowhatwear.com/fashion/outfit-ideas/classic-casual-outfits",
+            "observations": "Comparable internacional, no resultado local: 9 fórmulas, aproximadamente 500-900 palabras de notas editoriales más mucho catálogo; imágenes y créditos, H3 por look y enlaces comerciales. No se trasladan precios ni valoraciones de productos."
+          },
+          {
+            "url": "https://www.diariodesevilla.es/wappissima/tendencias/vaqueros-stradivarius-elegantes-tipazo-llevar-bailarinas-blazer_0_2002392660.html",
+            "observations": "Shopping firmado por Pilar Larrondo, 17/09/2024; aproximadamente 500-700 palabras, H2 y lista de variantes con fotografías, sin TOC. Producto concreto y lenguaje de silueta; no reutilizar stock, tallas, precios ni promesas corporales."
+          }
+        ],
+        "excluded": [
+          "Paris Femme: error al recuperar página completa",
+          "Vídeo de Mar Gallardo Nr8_e5GrJps: encontrado y descripción disponible, pero página no recuperada; no afirmar revisión ni incrustarlo"
+        ],
+        "intent": "Inspiración con salida comercial: elegir combinación y pieza que falta sin comprar un armario completo.",
+        "gap": "Comparar siete fórmulas por uso y límite, añadir comprobaciones prácticas de probador y alternativa según preferencias; evitar ranking de marcas y estereotipos corporales.",
+        "brief": {
+          "title": "Mejores looks casual chic para mujer: 7 fórmulas para elegir",
+          "slug": "mejores-looks-casual-chic-para-mujer",
+          "words": "1800-2200: cubrir decisiones prácticas frente a galerías breves; no aplicar media de páginas heterogéneas",
+          "outline": [
+            "Respuesta directa y criterio",
+            "Comparativa",
+            "Siete looks con límites y prueba",
+            "Compra y ajuste",
+            "FAQ"
+          ],
+          "image": "Ilustración original de tres combinaciones, generada con IA y declarada; no productos reales",
+          "internalLinks": [
+            "/blog/como-crear-un-armario-con-estilo-propio/",
+            "/blog/mejores-conjuntos-de-lino-para-mujer/",
+            "/blog/ropa-para-viento-y-calor-en-fuerteventura/",
+            "/shop/"
+          ]
+        },
+        "cannibalization": "Inventario de main d33ff78: no existe guía casual chic. Diferenciar de looks de verano, noche, Ibiza y armario propio: comparación de fórmulas de diario por formalidad y pruebas de compra, no destino, clima ni estilo personal general.",
+        "evidence": {
+          "verified": "Los cinco medios publican los formatos y combinaciones descritos; atribuciones breves en el artículo.",
+          "editorialInference": "Selección de siete fórmulas y criterios de probador propios, no pruebas de producto ni hechos científicos.",
+          "firsthand": [],
+          "avoid": [
+            "Precios",
+            "Stock",
+            "Sostenibilidad sin prueba",
+            "Comodidad garantizada",
+            "Adelgazar o favorecer todos los cuerpos",
+            "Autor o experiencia ficticios"
+          ]
+        }
+      },
+      "featuredImage": "/assets/blog-looks-casual-chic-mujer.jpg",
+      "imageDisclosure": "Original synthetic editorial illustration, visibly disclosed; no real products depicted",
+      "qa": {
+        "editorialSecondPass": "passed: separate post-draft review of intent, seven options, citations, no stock/prices/testing claims, FAQ alignment and absence of template text",
+        "build": "passed Eleventy 3.1.6",
+        "lintTests": "No configured lint or test scripts; git diff --check passed",
+        "localVerification": "one H1, canonical, Article/FAQ JSON-LD, all internal links and fragments resolve, image and discovery surfaces in dist",
+        "visualReview": "Desktop and mobile screenshots reviewed; image naturalWidth 1672; no document overflow; 390 CSS px mobile table scroll contained",
+        "liveVerification": "pending"
+      },
+      "content": {
+        "actualWords": 1923,
+        "editorialInternalLinks": 4,
+        "editorialExternalLinks": 4,
+        "youtubeEmbed": null
+      }
     }
   ]
 }
