@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-10-25",
+  "lastUpdated": "2026-10-28",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -2208,7 +2208,7 @@
       "title": "Mejores looks casual chic para mujer: 7 fórmulas para elegir",
       "slug": "mejores-looks-casual-chic-para-mujer",
       "url": "https://egosuspicio.com/blog/mejores-looks-casual-chic-para-mujer/",
-      "status": "validated",
+      "status": "live_verified",
       "preparedAt": "2026-10-25",
       "research": {
         "keyword": "mejores looks casual chic para mujer",
@@ -2289,13 +2289,85 @@
         "lintTests": "No configured lint or test scripts; git diff --check passed",
         "localVerification": "one H1, canonical, Article/FAQ JSON-LD, all internal links and fragments resolve, image and discovery surfaces in dist",
         "visualReview": "Desktop and mobile screenshots reviewed; image naturalWidth 1672; no document overflow; 390 CSS px mobile table scroll contained",
-        "liveVerification": "pending"
+        "liveVerification": "HTTP 200, H1, canonical, schemas, JPEG 200, blog and sitemap passed; public 1280px and 390px screenshots reviewed, no overflow; deployment 40228897529 success."
       },
       "content": {
         "actualWords": 1923,
         "editorialInternalLinks": 4,
         "editorialExternalLinks": 4,
         "youtubeEmbed": null
+      },
+      "publishedCommit": "eb10acc392f9a0df79c5f69bfffaf8076ed0090d",
+      "verifiedAt": "2026-10-28"
+    },
+    {
+      "keyword": "mejores vestidos versátiles para vacaciones",
+      "priority": "Baja",
+      "title": "Mejores vestidos versátiles para vacaciones: 7 opciones para repetir",
+      "slug": "mejores-vestidos-versatiles-para-vacaciones",
+      "url": "https://egosuspicio.com/blog/mejores-vestidos-versatiles-para-vacaciones/",
+      "status": "validated",
+      "preparedAt": "2026-10-28",
+      "research": {
+        "checkedAt": "2026-10-28",
+        "market": "Google ES / Fuerteventura; Spanish web search, no guaranteed local geolocation or exact rankings",
+        "queries": [
+          "vestidos versátiles vacaciones camisero pareo punto maleta mujer",
+          "site.vogue.es vestidos vacaciones maleta versatil"
+        ],
+        "sources": [
+          {
+            "url": "https://www.vogue.es/articulos/vestidos-de-verano-maleta-vacaciones",
+            "observations": "Elly Leavitt / Inés Hidalgo, 2026; shopping guide, about 700-1100 editorial words plus product cards; H2 by type, quick selection links, credited photos; travel occasions, cotton, shirt dresses. No comparative wear evidence."
+          },
+          {
+            "url": "https://www.vogue.es/articulos/vestidos-maleta-playa-tendencias-verano-2024",
+            "observations": "María Munsuri, 2024; five categories, about 400-700 editorial words plus cards; H2, photos, no visible TOC; crochet, prints, white dresses. Older trends/prices excluded."
+          },
+          {
+            "url": "https://www.cos.com/es-es/features/collections/the-womens-holiday-packing-list",
+            "observations": "Brand editorial, no named author; about 700-1000 words across packing categories; H2, campaign photography, no TOC; coordinated collection and day/night dresses; primary source for own styling only."
+          },
+          {
+            "url": "https://www.marie-claire.es/moda/71535.html",
+            "observations": "Anna Pardo, 2024; about 400-700 words including 11 shopping cards; photos, limited heading structure, no TOC; long dresses and versatility; prices/stock and universal claims excluded."
+          },
+          {
+            "url": "https://elpais.com/escaparate/estilo-de-vida/maleta-capsula-de-verano.html",
+            "observations": "Claudia Farnos Llera, 2026; about 600-900 editorial words; ten garment H2, product images, FAQ, affiliate disclosure; capsule coordination. No copying ratings, prices or guarantees."
+          }
+        ],
+        "excluded": [
+          "Barandi full fetch cache miss"
+        ],
+        "intent": "Commercial inspiration and selection of a dress for repeated holiday uses",
+        "gap": "Compare limitations, closure/underwear checks, actual two-plan use and feasible care rather than product gallery",
+        "cannibalization": "Distinct from fresh dresses/climate and full packing guide: focus on repeating a single dress across occasions, constraints and care; links to broader existing pages",
+        "brief": {
+          "format": "7-format BOFU listicle",
+          "length": "1800-2400 words to develop decisions beyond short galleries; not a claimed SERP average",
+          "image": "Original AI editorial illustration, disclosed",
+          "claims": "Own styling suggestions, no firsthand tests, prices, stock or universal performance",
+          "video": "No verified relevant video surfaced; omit"
+        },
+        "evidence": {
+          "firsthand": [],
+          "verified": "Source authors and editorial structures above",
+          "editorialInference": "Seven options, probador checks and repeat-use framework"
+        }
+      },
+      "featuredImage": "/assets/blog-vestidos-versatiles-vacaciones.jpg",
+      "content": {
+        "actualWords": 1976,
+        "editorialInternalLinks": 4,
+        "editorialExternalLinks": 4
+      },
+      "qa": {
+        "editorialSecondPass": "passed: separate review of entire final copy, intent, seven types, source attribution, claims, FAQ/schema match, internal links, no template instructions or unsupported prices/testing",
+        "build": "passed Eleventy 3.1.6",
+        "liveVerification": "pending",
+        "lintTests": "No configured scripts; git diff --check passed",
+        "visualReview": "Local desktop and mobile screenshots reviewed; image naturalWidth 1400, no document overflow"
       }
     }
   ]
