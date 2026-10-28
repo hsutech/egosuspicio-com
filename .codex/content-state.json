@@ -2306,7 +2306,7 @@
       "title": "Mejores vestidos versátiles para vacaciones: 7 opciones para repetir",
       "slug": "mejores-vestidos-versatiles-para-vacaciones",
       "url": "https://egosuspicio.com/blog/mejores-vestidos-versatiles-para-vacaciones/",
-      "status": "validated",
+      "status": "live_verified",
       "preparedAt": "2026-10-28",
       "research": {
         "checkedAt": "2026-10-28",
@@ -2365,10 +2365,14 @@
       "qa": {
         "editorialSecondPass": "passed: separate review of entire final copy, intent, seven types, source attribution, claims, FAQ/schema match, internal links, no template instructions or unsupported prices/testing",
         "build": "passed Eleventy 3.1.6",
-        "liveVerification": "pending",
+        "liveVerification": "First HTTP verification attempt passed: article/image/blog/sitemap 200, expected H1 and canonical, Article/FAQ JSON-LD. Deployment success. Public screenshots 1280px desktop and 390px mobile reviewed; image naturalWidth 1400, no overflow.",
         "lintTests": "No configured scripts; git diff --check passed",
         "visualReview": "Local desktop and mobile screenshots reviewed; image naturalWidth 1400, no document overflow"
-      }
+      },
+      "publicationDate": "2026-10-28",
+      "publishedCommit": "5e8fbdc8728d7c0ff31b01c4fd63402f1e1b4e9b",
+      "verifiedAt": "2026-10-28T15:24:01.736815+00:00",
+      "deploymentRun": 40715257916
     }
   ]
 }
