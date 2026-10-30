@@ -2387,7 +2387,7 @@
       "title": "Alternativas a la moda rápida en Fuerteventura: 7 opciones",
       "slug": "alternativas-moda-rapida-fuerteventura",
       "url": "https://egosuspicio.com/blog/alternativas-moda-rapida-fuerteventura/",
-      "status": "validated",
+      "status": "live_verified",
       "preparedAt": "2026-10-30",
       "research": {
         "keyword": "alternativas a la moda rápida en Fuerteventura",
@@ -2453,7 +2453,50 @@
         "build": "passed Eleventy 3.1.6",
         "lintTests": "No configured lint/tests; git diff --check passed",
         "visualReview": "Local desktop 1280x850 and mobile 390x844 screenshots reviewed; image 1400px loaded, no document overflow; scrolling table container.",
-        "localVerification": "One H1, self canonical, Article/FAQ JSON-LD, FAQ answer alignment, all internal URLs/fragments exist; blog and sitemap entry, optimized 1400x788 JPEG present in dist."
+        "localVerification": "One H1, self canonical, Article/FAQ JSON-LD, FAQ answer alignment, all internal URLs/fragments exist; blog and sitemap entry, optimized 1400x788 JPEG present in dist.",
+        "publicChecks": {
+          "https://egosuspicio.com/blog/alternativas-moda-rapida-fuerteventura/": {
+            "status": 200,
+            "type": "text/html; charset=utf-8"
+          },
+          "https://egosuspicio.com/blog/": {
+            "status": 200,
+            "type": "text/html; charset=utf-8"
+          },
+          "https://egosuspicio.com/sitemap.xml": {
+            "status": 200,
+            "type": "application/xml"
+          },
+          "https://egosuspicio.com/assets/blog-alternativas-moda-rapida-fuerteventura.jpg": {
+            "status": 200,
+            "type": "image/jpeg"
+          },
+          "checks": {
+            "h1": true,
+            "canonical": true,
+            "image": true,
+            "blog": true,
+            "sitemap": true,
+            "schemas": [
+              "Article",
+              "FAQPage"
+            ]
+          },
+          "passed": true,
+          "at": "2026-10-30T06:56:53.306695+00:00"
+        },
+        "liveVerification": "Passed on second bounded attempt after successful Cloudflare workflow. Public desktop 1280x850 and mobile 390x844 screenshots reviewed; 1400px JPEG loaded, no horizontal overflow."
+      },
+      "publicationDate": "2026-10-30",
+      "publishedCommit": "3be2c884816165d615b297f1231201192e7f67d0",
+      "verifiedAt": "2026-10-30T06:56:53.306695+00:00",
+      "deploymentRun": 41016902985,
+      "imageDetails": {
+        "tool": "built-in imagegen",
+        "path": "src/assets/blog-alternativas-moda-rapida-fuerteventura.jpg",
+        "dimensions": "1400x788",
+        "prompt": "Original wide editorial gouache/cut-paper illustration: clothing repair table with thread, patches, terracotta shirt; reused blue and cream garments and patchwork sail-fabric tote; abstract island hills; cobalt, sand, terracotta, sage; no people, words, brands, real shop or product.",
+        "disclosure": "Visible conceptual AI illustration caption; not evidence of real products."
       }
     }
   ]
