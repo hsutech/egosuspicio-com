@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-10-28",
+  "lastUpdated": "2026-10-30",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -2373,6 +2373,88 @@
       "publishedCommit": "5e8fbdc8728d7c0ff31b01c4fd63402f1e1b4e9b",
       "verifiedAt": "2026-10-28T15:24:01.736815+00:00",
       "deploymentRun": 40715257916
+    },
+    {
+      "keyword": "cómo elegir ropa para clima canario",
+      "priority": "Baja",
+      "status": "skipped",
+      "checkedAt": "2026-10-30",
+      "reason": "Intención cubierta por ropa para viento y calor, qué ropa llevar a Fuerteventura y vestidos para clima canario; inventario y búsqueda actual revisados."
+    },
+    {
+      "keyword": "alternativas a la moda rápida en Fuerteventura",
+      "priority": "Baja",
+      "title": "Alternativas a la moda rápida en Fuerteventura: 7 opciones",
+      "slug": "alternativas-moda-rapida-fuerteventura",
+      "url": "https://egosuspicio.com/blog/alternativas-moda-rapida-fuerteventura/",
+      "status": "validated",
+      "preparedAt": "2026-10-30",
+      "research": {
+        "keyword": "alternativas a la moda rápida en Fuerteventura",
+        "checkedAt": "2026-10-30",
+        "market": "España / Fuerteventura",
+        "method": "Búsqueda web actual en español, cinco páginas completas accesibles. No posiciones exactas ni geolocalización garantizada Google ES. EUR-Lex bloqueado por challenge y no usado.",
+        "queries": [
+          "alternativas moda rápida Fuerteventura segunda mano ropa reparación",
+          "Fuerteventura ropa segunda mano Ingshani reparación moda sostenible alternativas",
+          "cómo elegir ropa clima canario"
+        ],
+        "sources": [
+          {
+            "url": "https://www.diariodefuerteventura.com/noticia/ingshani-un-comercio-de-artesan%C3%ADa-feminista-y-sostenible",
+            "observations": "Itziar Fernández, 29/03/2026. Reportaje local de unas 650-850 palabras, subtítulos, fotografías acreditadas, sin TOC; documenta costura y segunda mano. No adoptar elogios, premios ni satisfacción como evaluación propia."
+          },
+          {
+            "url": "https://www.ftvstudio.es/inicio/",
+            "observations": "Fuente primaria comercial, unas 150-250 palabras principales; H2/H3 por proceso y categorías, imágenes y formulario, sin firma individual ni TOC. Declara cometas, velas y excedentes; no auditoría independiente."
+          },
+          {
+            "url": "https://www.corralejo.info/es/actividades/segunda-mano-corralejo/",
+            "observations": "Ficha de directorio, menos de 100 palabras descriptivas, foto, contacto y horarios. No prueba especialización textil ni inventario; excluida como recomendación de ropa."
+          },
+          {
+            "url": "https://lapolilla.es/conocenos/",
+            "observations": "Comparable canario no local; unas 500-700 palabras, entrevista/identidad de Raquel Esbrí, H2/H3, fotos, sin TOC. Segunda mano, transformación y reparación; no incluir como tienda de Fuerteventura."
+          },
+          {
+            "url": "https://www.eea.europa.eu/en/analysis/publications/textiles-and-the-environment-the-role-of-design-in-europes-circular-economy-1",
+            "observations": "Informe institucional amplio, varios miles de palabras, secciones numeradas, figuras y referencias. Fuente primaria para durabilidad, reparación y reutilización; no trasladar estadísticas históricas ni calcular ahorros por prenda."
+          }
+        ],
+        "intent": "Comercial: elegir entre reparación, reutilización y compra nueva informada.",
+        "gap": "Comparar soluciones y límites con referencias locales verificables, sin inflar un ranking de siete tiendas inexistentes.",
+        "brief": {
+          "length": "1800-2200 palabras para siete decisiones; SERP heterogénea de fichas, comercios y noticias, no media de textos comparables.",
+          "structure": "Respuesta directa, matriz, siete opciones, preguntas de compra, ruta y cinco FAQs.",
+          "cannibalization": "Keyword 27 duplica clima/packing; saltar. Keyword 28 se centra en alternativas al consumo rápido y estado/coste de la pieza, diferenciada de moda local centrada en origen y diseño.",
+          "image": "Ilustración original IA de costura, ropa reutilizada y bolso de retales, sin productos reales; divulgación visible.",
+          "video": "No vídeo verificado que mejore la decisión; omitido."
+        },
+        "evidence": {
+          "verified": "Servicios descritos por reportaje y proceso declarado por marca; enfoque circular de EEA.",
+          "editorialInference": "Matriz de siete opciones y comprobaciones; no pruebas realizadas.",
+          "firsthand": [],
+          "avoid": [
+            "stock y precios",
+            "superioridad ambiental universal",
+            "certificaciones deducidas",
+            "reseñas inventadas"
+          ]
+        }
+      },
+      "featuredImage": "/assets/blog-alternativas-moda-rapida-fuerteventura.jpg",
+      "content": {
+        "actualWords": 1915,
+        "editorialInternalLinks": 4,
+        "editorialExternalLinks": 3
+      },
+      "qa": {
+        "editorialSecondPass": "passed: final full-text review, claims traced to five read sources; three external and four internal editorial links, no invented testing/prices/certifications; company disclaimer simplified to contextual CTA; FAQ schema matches visible answers",
+        "build": "passed Eleventy 3.1.6",
+        "lintTests": "No configured lint/tests; git diff --check passed",
+        "visualReview": "Local desktop 1280x850 and mobile 390x844 screenshots reviewed; image 1400px loaded, no document overflow; scrolling table container.",
+        "localVerification": "One H1, self canonical, Article/FAQ JSON-LD, FAQ answer alignment, all internal URLs/fragments exist; blog and sitemap entry, optimized 1400x788 JPEG present in dist."
+      }
     }
   ]
 }
