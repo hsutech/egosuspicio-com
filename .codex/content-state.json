@@ -1,6 +1,6 @@
 {
   "domain": "egosuspicio.com",
-  "lastUpdated": "2026-10-30",
+  "lastUpdated": "2026-10-31T15:10:33.654056+00:00",
   "articles": [
     {
       "keyword": "mejores boutiques en Fuerteventura",
@@ -2498,6 +2498,56 @@
         "prompt": "Original wide editorial gouache/cut-paper illustration: clothing repair table with thread, patches, terracotta shirt; reused blue and cream garments and patchwork sail-fabric tote; abstract island hills; cobalt, sand, terracotta, sage; no people, words, brands, real shop or product.",
         "disclosure": "Visible conceptual AI illustration caption; not evidence of real products."
       }
+    },
+    {
+      "keyword": "Egosuspicio opiniones",
+      "priority": "Baja",
+      "status": "skipped",
+      "checkedAt": "2026-10-31T15:10:33.654056+00:00",
+      "reason": "No se ha verificado un corpus de reseñas originales con fecha y procedencia para sustentar una review de la propia empresa. Nicanora mezcla recuentos diferentes en ficha y texto; Cylex invita a escribir la primera opinión. La noticia municipal solo documenta participación histórica, no satisfacción. Una guía genérica sobre cómo leer opiniones duplicaría boutiques-moda-puerto-del-rosario-opiniones. No afirmar que no existan reseñas en otras plataformas.",
+      "research": {
+        "queries": [
+          "\"Egosuspicio\" opiniones",
+          "\"Egosuspicio\" alternativas"
+        ],
+        "sources": [
+          "https://nicanora.es/tienda-ropa/egosuspicio/",
+          "https://www.cylex.es/puerto-del-rosario/egosuspicio-13811402.html",
+          "https://www.cylex.es/puerto-del-rosario/tienda-de-ropa/",
+          "https://www.puertodelrosario.org/los-comercios-de-puerto-del-rosario-iluminan-la-navidad-en-el-concurso-de-escaparates/"
+        ],
+        "method": "Búsqueda web actual en español y lectura de páginas completas; sin posiciones exactas ni geolocalización Google ES garantizada."
+      }
+    },
+    {
+      "keyword": "Egosuspicio alternativas",
+      "priority": "Baja",
+      "status": "skipped",
+      "checkedAt": "2026-10-31T15:10:33.654056+00:00",
+      "reason": "La búsqueda actual devuelve principalmente fichas y directorios locales. Sin un criterio específico verificable de producto, servicio o necesidad que diferencie la comparación, el listado repetiría mejores-boutiques-en-fuerteventura, mejores-tiendas-de-ropa-en-puerto-del-rosario y donde-comprar-vestidos-en-fuerteventura. Se descarta esta propuesta por canibalización, no se inventan diferencias entre empresas.",
+      "research": {
+        "queries": [
+          "\"Egosuspicio\" opiniones",
+          "\"Egosuspicio\" alternativas"
+        ],
+        "sources": [
+          "https://nicanora.es/tienda-ropa/egosuspicio/",
+          "https://www.cylex.es/puerto-del-rosario/egosuspicio-13811402.html",
+          "https://www.cylex.es/puerto-del-rosario/tienda-de-ropa/",
+          "https://www.puertodelrosario.org/los-comercios-de-puerto-del-rosario-iluminan-la-navidad-en-el-concurso-de-escaparates/"
+        ],
+        "method": "Búsqueda web actual en español y lectura de páginas completas; sin posiciones exactas ni geolocalización Google ES garantizada."
+      }
     }
-  ]
+  ],
+  "queueReview": {
+    "checkedAt": "2026-10-31T15:10:33.654056+00:00",
+    "status": "complete",
+    "workbookKeywords": 30,
+    "publishedKeywords": 26,
+    "skippedKeywords": 4,
+    "newArticlesThisRun": 0,
+    "reason": "Todas las keywords del libro están publicadas/live_verified o descartadas. Se aplica condición de cierre de AUTONOMOUS_CONTENT.md.",
+    "campaign": "HTTP 200, H1 esperado y un único enlace editorial seguido con anchor y destino exactos verificados."
+  }
 }
