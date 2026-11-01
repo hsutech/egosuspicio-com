@@ -4,6 +4,9 @@ export default function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/_redirects": "_redirects" });
   eleventyConfig.addPassthroughCopy({ "src/sitemap.xml": "sitemap.xml" });
 
+  // Cloudflare Pages requires a root 404.html to disable its SPA fallback.
+  eleventyConfig.addPassthroughCopy({ "src/404.html": "404.html" });
+
   return {
     dir: {
       input: "src",
